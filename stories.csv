@@ -1,0 +1,12 @@
+Story,Task,Estimate min (hr),Estimate max (hr),Actual (hr),Comment
+"Implement single prompt/parameter test flow","Enable testing a specific (temperature, top_p) pair end-to-end",2,2.5,,"Core backend+UI wiring for single pair run"
+"Develop UI and logic for range-based and custom bulk parameter input","Support ad-hoc pairs to explore parameter space",2,2.5,,"Flexible inputs for batch runs"
+"Add raw LLM response display panel","Show generated text next to metrics for qualitative review",1,1.5,,"Toggle/view area for outputs"
+"Design database schema and implement API persistence","Persist runs and metrics with read/write endpoints",2,2.5,,"Models, CRUD, migrations"
+"Develop Heatmap visualization (Temp x Top_P)","Aggregate and render 2D heatmap",2,2.5,,"Color scale, legend, tooltips"
+"Develop Line Chart visualizations","1D aggregation lines per parameter",1.5,2,,"Metric vs parameter with smoothing option"
+"Implement metric tooltips/labels","Explain each metric succinctly",0.5,1,,"Short, precise definitions"
+"Implement Dark/Light mode","Theme switching and persistence",0.5,1,,"System preference + toggle"
+"Set up Redux store and slices","App state for runs, analytics, UI",1.5,2,,"Async thunks and cache policy"
+"Configure deployment","Vercel/Render setup for demo",1,1.5,,"Env, build, health checks"
+"TOTALS","",16,22.5,,"Targets ~20h total (max under 30h)"
