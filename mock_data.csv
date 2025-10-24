@@ -1,0 +1,1501 @@
+prompt,model,temperature,top_p,lexical_diversity,query_coverage,flesch_kincaid_grade,repetition_penalty
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.1,0.2,77.51,42.5,9.09,18.54
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.1,0.4,80.6,44.31,9.93,14.72
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.1,0.6,82.04,40.92,9.23,14.23
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.1,0.8,83.16,40.8,9.84,11.47
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.1,1.0,86.63,41.56,10.13,5.24
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.3,0.2,82.67,43.59,9.37,16.53
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.3,0.4,85.98,41.35,9.17,13.18
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.3,0.6,88.24,41.61,10.13,13.98
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.3,0.8,89.69,42.29,9.71,9.91
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.3,1.0,93.57,40.07,10.39,7.06
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.5,0.2,86.77,39.38,9.43,15.74
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.5,0.4,86.97,39.33,9.38,12.67
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.5,0.6,91.89,39.06,9.8,9.26
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.5,0.8,93.12,40.55,10.24,8.65
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.5,1.0,95.43,38.92,9.75,4.28
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.7,0.2,92.41,40.16,10.03,16.51
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.7,0.4,94.52,39.9,9.73,9.59
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.7,0.6,95.11,37.07,9.81,12.06
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.7,0.8,100.0,36.46,10.44,5.77
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.7,1.0,100.0,36.24,10.07,1.88
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.9,0.2,95.2,37.05,10.26,16.19
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.9,0.4,97.25,36.08,10.85,10.86
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.9,0.6,98.71,34.59,9.89,8.56
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.9,0.8,100.0,35.29,9.93,4.09
+When did Virgin Australia start operating?,gemini-2.0-flash-lite,0.9,1.0,100.0,34.92,11.12,3.96
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.1,0.2,83.55,23.08,4.79,20.42
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.1,0.4,87.57,22.36,4.39,16.81
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.1,0.6,91.31,23.22,5.58,12.78
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.1,0.8,94.5,19.71,5.92,13.42
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.1,1.0,96.69,21.16,5.84,6.12
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.3,0.2,91.55,21.56,5.39,18.78
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.3,0.4,91.5,20.3,4.77,18.17
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.3,0.6,98.01,21.93,5.4,9.95
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.3,0.8,100.0,21.99,5.43,9.52
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.3,1.0,100.0,20.84,6.55,4.37
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.5,0.2,95.4,20.8,5.27,19.23
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.5,0.4,98.19,19.05,5.9,15.38
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.5,0.6,100.0,19.05,6.74,11.9
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.5,0.8,100.0,19.47,6.0,6.35
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.5,1.0,100.0,19.35,6.44,3.32
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.7,0.2,98.78,20.32,5.74,17.83
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.7,0.4,100.0,17.68,6.06,13.41
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.7,0.6,100.0,17.53,7.21,9.83
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.7,0.8,100.0,19.74,7.37,4.54
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.7,1.0,100.0,17.92,7.22,3.2
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.9,0.2,100.0,19.69,7.18,11.39
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.9,0.4,100.0,17.96,7.35,9.29
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.9,0.6,100.0,17.99,7.14,6.47
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.9,0.8,100.0,19.49,7.49,6.97
+Which is a species of fish? Tope or Rope,gemini-2.0-flash-lite,0.9,1.0,100.0,15.6,8.48,3.82
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.1,0.2,87.38,38.7,8.29,18.2
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.1,0.4,88.44,35.18,7.84,14.55
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.1,0.6,91.02,37.6,7.76,15.9
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.1,0.8,94.32,34.69,8.67,14.17
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.1,1.0,97.72,35.2,7.79,6.98
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.3,0.2,92.37,35.98,8.09,20.09
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.3,0.4,91.73,35.33,8.13,17.72
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.3,0.6,95.13,36.17,7.7,10.71
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.3,0.8,99.88,34.36,7.97,7.32
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.3,1.0,100.0,31.98,8.49,7.32
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.5,0.2,95.18,34.66,8.23,19.61
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.5,0.4,97.32,34.53,7.97,13.37
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.5,0.6,100.0,32.2,8.15,12.51
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.5,0.8,100.0,32.16,9.05,10.98
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.5,1.0,100.0,30.52,8.26,7.6
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.7,0.2,100.0,34.51,8.22,13.35
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.7,0.4,100.0,33.14,8.59,15.32
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.7,0.6,100.0,29.69,8.92,8.2
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.7,0.8,100.0,32.75,8.18,4.09
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.7,1.0,100.0,30.54,8.43,4.03
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.9,0.2,100.0,30.48,8.7,12.38
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.9,0.4,100.0,32.62,9.04,8.35
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.9,0.6,100.0,29.44,8.11,9.43
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.9,0.8,100.0,28.71,9.08,5.11
+Why can camels survive for long without water?,gemini-2.0-flash-lite,0.9,1.0,100.0,27.04,8.36,4.1
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.1,0.2,76.43,31.9,4.98,20.7
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.1,0.4,76.03,29.65,4.62,19.59
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.1,0.6,81.25,32.01,5.61,12.46
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.1,0.8,81.69,28.41,5.76,13.5
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.1,1.0,84.94,29.91,5.3,10.78
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.3,0.2,80.65,32.47,5.43,20.89
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.3,0.4,79.91,30.94,5.14,18.18
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.3,0.6,85.65,30.88,6.01,11.2
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.3,0.8,88.21,27.29,6.38,11.75
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.3,1.0,88.58,29.55,6.18,5.43
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.5,0.2,84.74,28.34,4.98,15.16
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.5,0.4,85.5,30.31,6.41,12.67
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.5,0.6,89.38,27.88,6.73,11.22
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.5,0.8,93.19,26.17,7.02,6.07
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.5,1.0,95.91,26.2,6.3,4.61
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.7,0.2,88.85,27.54,6.2,15.47
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.7,0.4,90.1,28.02,6.08,13.65
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.7,0.6,91.19,28.84,6.73,10.72
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.7,0.8,96.78,27.25,6.83,3.82
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.7,1.0,99.09,25.32,7.09,5.49
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.9,0.2,93.19,26.34,6.37,13.25
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.9,0.4,94.55,25.75,6.47,10.32
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.9,0.6,99.32,26.71,7.71,8.49
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.9,0.8,99.39,25.62,6.95,3.52
+"Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?",gemini-2.0-flash-lite,0.9,1.0,100.0,25.18,8.07,1.59
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.1,0.2,85.27,82.1,7.7,22.61
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.1,0.4,89.68,80.43,7.31,17.29
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.1,0.6,92.03,79.59,8.28,15.71
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.1,0.8,95.19,77.65,7.61,8.35
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.1,1.0,96.48,77.15,8.48,5.64
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.3,0.2,90.16,80.77,7.53,19.78
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.3,0.4,93.48,77.73,8.16,12.63
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.3,0.6,97.5,78.33,7.59,12.15
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.3,0.8,98.2,77.58,8.16,6.9
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.3,1.0,100.0,75.64,8.17,8.41
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.5,0.2,96.17,79.2,8.17,19.7
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.5,0.4,100.0,76.2,8.4,14.03
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.5,0.6,100.0,74.44,8.7,12.46
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.5,0.8,100.0,71.79,8.0,8.83
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.5,1.0,100.0,71.34,8.54,3.65
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.7,0.2,98.81,73.39,7.95,14.32
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.7,0.4,100.0,71.3,7.98,13.56
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.7,0.6,100.0,69.51,8.27,9.66
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.7,0.8,100.0,68.58,8.37,8.83
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.7,1.0,100.0,69.03,8.98,4.99
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.9,0.2,100.0,69.27,8.21,15.32
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.9,0.4,100.0,71.56,8.37,12.29
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.9,0.6,100.0,68.66,8.21,6.12
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.9,0.8,100.0,64.87,8.43,5.87
+When was Tomoaki Komorida born?,gemini-2.0-flash-lite,0.9,1.0,100.0,63.91,8.67,0.0
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.1,0.2,71.12,42.51,4.45,20.59
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.1,0.4,71.22,44.17,4.41,16.97
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.1,0.6,73.79,42.32,4.79,13.16
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.1,0.8,79.11,41.52,5.72,13.19
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.1,1.0,79.55,39.53,5.14,8.44
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.3,0.2,76.76,42.2,5.24,20.29
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.3,0.4,77.85,43.02,5.88,13.8
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.3,0.6,77.8,39.81,5.19,13.62
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.3,0.8,82.45,39.27,6.17,11.2
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.3,1.0,83.35,40.03,6.53,4.29
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.5,0.2,80.17,43.06,5.09,14.15
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.5,0.4,80.62,41.11,6.4,13.38
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.5,0.6,84.71,37.9,6.38,11.76
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.5,0.8,84.74,39.89,6.88,8.6
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.5,1.0,87.29,39.94,7.1,4.08
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.7,0.2,82.74,39.08,6.08,14.45
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.7,0.4,86.9,40.09,5.9,15.16
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.7,0.6,88.52,39.31,6.93,9.01
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.7,0.8,91.39,39.06,6.72,8.25
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.7,1.0,93.09,36.33,7.24,4.79
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.9,0.2,86.23,39.41,7.0,11.32
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.9,0.4,91.16,36.18,6.87,11.46
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.9,0.6,91.63,34.51,7.65,5.89
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.9,0.8,93.44,36.79,7.36,7.08
+"If I have more pieces at the time of stalemate, have I won?",gemini-2.0-flash-lite,0.9,1.0,97.87,33.91,7.29,4.49
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.1,0.2,55.83,37.88,10.16,21.75
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.1,0.4,60.27,36.91,10.27,18.96
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.1,0.6,59.9,34.55,10.62,13.04
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.1,0.8,63.87,34.89,10.54,10.75
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.1,1.0,66.54,33.65,10.85,6.83
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.3,0.2,59.86,34.15,10.02,16.32
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.3,0.4,63.01,36.05,10.12,13.9
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.3,0.6,64.82,35.23,11.18,12.75
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.3,0.8,66.04,32.07,10.35,7.96
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.3,1.0,67.64,31.05,10.86,5.25
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.5,0.2,66.11,34.54,10.85,14.76
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.5,0.4,67.71,33.63,11.16,14.44
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.5,0.6,68.13,32.76,10.45,8.31
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.5,0.8,72.03,32.24,11.32,7.4
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.5,1.0,70.58,32.18,10.5,2.9
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.7,0.2,67.83,32.21,11.42,13.11
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.7,0.4,70.65,32.76,11.28,10.75
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.7,0.6,71.7,31.47,10.97,11.56
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.7,0.8,75.59,30.22,11.29,7.06
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.7,1.0,76.61,32.12,10.9,1.67
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.9,0.2,71.58,30.29,10.65,11.25
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.9,0.4,70.97,30.8,11.26,9.55
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.9,0.6,73.9,31.16,11.5,7.52
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.9,0.8,77.74,31.36,11.71,5.55
+"Given a reference text about Lollapalooza, where does it take place, who started it and what is it?",gemini-2.0-flash-lite,0.9,1.0,79.65,30.73,11.38,2.07
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.1,0.2,86.09,1.63,9.07,17.63
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.1,0.4,87.16,0.0,9.07,17.62
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.1,0.6,90.65,0.0,9.09,15.4
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.1,0.8,96.27,0.0,8.94,8.68
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.1,1.0,95.66,0.0,8.83,6.7
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.3,0.2,88.87,1.85,9.26,19.05
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.3,0.4,95.3,2.0,9.16,14.22
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.3,0.6,94.66,1.03,9.01,13.51
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.3,0.8,100.0,0.0,9.24,10.41
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.3,1.0,100.0,0.0,9.04,5.6
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.5,0.2,96.18,1.43,8.84,18.16
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.5,0.4,97.65,1.78,9.51,14.3
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.5,0.6,100.0,0.0,9.01,13.82
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.5,0.8,100.0,0.06,9.9,8.95
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.5,1.0,100.0,0.0,9.03,4.17
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.7,0.2,100.0,0.5,9.54,13.62
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.7,0.4,100.0,1.71,9.24,13.59
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.7,0.6,100.0,1.89,9.54,7.84
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.7,0.8,100.0,0.2,9.56,3.96
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.7,1.0,100.0,1.65,9.55,1.1
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.9,0.2,100.0,0.0,9.67,13.85
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.9,0.4,100.0,1.34,10.08,9.26
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.9,0.6,100.0,0.0,10.1,7.85
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.9,0.8,100.0,1.46,9.42,6.54
+Who gave the UN the land in NY to build their HQ,gemini-2.0-flash-lite,0.9,1.0,100.0,1.74,9.79,3.72
+Why mobile is bad for human,gemini-2.0-flash-lite,0.1,0.2,84.63,0.0,4.68,23.19
+Why mobile is bad for human,gemini-2.0-flash-lite,0.1,0.4,88.46,0.0,4.9,16.27
+Why mobile is bad for human,gemini-2.0-flash-lite,0.1,0.6,91.71,0.17,5.08,13.13
+Why mobile is bad for human,gemini-2.0-flash-lite,0.1,0.8,93.25,0.79,5.51,9.6
+Why mobile is bad for human,gemini-2.0-flash-lite,0.1,1.0,98.6,0.0,6.01,9.43
+Why mobile is bad for human,gemini-2.0-flash-lite,0.3,0.2,91.75,0.0,5.25,20.52
+Why mobile is bad for human,gemini-2.0-flash-lite,0.3,0.4,95.42,0.0,4.79,15.61
+Why mobile is bad for human,gemini-2.0-flash-lite,0.3,0.6,96.86,1.48,6.08,12.24
+Why mobile is bad for human,gemini-2.0-flash-lite,0.3,0.8,99.6,0.0,6.2,9.06
+Why mobile is bad for human,gemini-2.0-flash-lite,0.3,1.0,100.0,0.0,6.19,9.42
+Why mobile is bad for human,gemini-2.0-flash-lite,0.5,0.2,94.85,0.77,5.74,19.11
+Why mobile is bad for human,gemini-2.0-flash-lite,0.5,0.4,99.91,1.44,5.71,12.9
+Why mobile is bad for human,gemini-2.0-flash-lite,0.5,0.6,100.0,1.04,6.6,8.22
+Why mobile is bad for human,gemini-2.0-flash-lite,0.5,0.8,100.0,0.52,6.96,10.98
+Why mobile is bad for human,gemini-2.0-flash-lite,0.5,1.0,100.0,0.0,6.28,5.8
+Why mobile is bad for human,gemini-2.0-flash-lite,0.7,0.2,100.0,0.0,6.3,17.82
+Why mobile is bad for human,gemini-2.0-flash-lite,0.7,0.4,100.0,1.18,6.13,11.65
+Why mobile is bad for human,gemini-2.0-flash-lite,0.7,0.6,100.0,0.12,6.76,11.16
+Why mobile is bad for human,gemini-2.0-flash-lite,0.7,0.8,100.0,0.0,7.44,7.12
+Why mobile is bad for human,gemini-2.0-flash-lite,0.7,1.0,100.0,1.65,6.89,3.17
+Why mobile is bad for human,gemini-2.0-flash-lite,0.9,0.2,100.0,0.0,6.01,15.63
+Why mobile is bad for human,gemini-2.0-flash-lite,0.9,0.4,100.0,0.71,6.5,10.45
+Why mobile is bad for human,gemini-2.0-flash-lite,0.9,0.6,100.0,0.35,7.4,7.35
+Why mobile is bad for human,gemini-2.0-flash-lite,0.9,0.8,100.0,1.38,7.19,4.11
+Why mobile is bad for human,gemini-2.0-flash-lite,0.9,1.0,100.0,0.0,7.97,2.25
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.1,0.2,51.12,82.43,12.23,21.15
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.1,0.4,49.97,82.01,12.01,18.67
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.1,0.6,50.79,80.68,11.9,16.62
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.1,0.8,53.46,79.95,12.16,10.31
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.1,1.0,56.59,77.73,12.37,9.53
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.3,0.2,52.66,81.6,12.06,21.02
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.3,0.4,54.33,77.99,11.96,16.08
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.3,0.6,56.4,75.61,11.91,14.08
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.3,0.8,55.9,74.28,12.33,12.43
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.3,1.0,59.04,75.9,12.8,5.14
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.5,0.2,56.19,77.18,12.52,18.48
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.5,0.4,55.97,74.21,12.83,11.84
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.5,0.6,60.21,75.69,12.67,13.88
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.5,0.8,61.94,73.97,12.36,9.74
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.5,1.0,59.85,71.4,12.59,6.04
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.7,0.2,58.46,74.59,12.79,18.04
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.7,0.4,57.93,71.69,11.96,14.71
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.7,0.6,61.46,72.91,12.31,6.78
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.7,0.8,64.24,71.39,12.53,5.85
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.7,1.0,63.22,70.04,12.66,3.36
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.9,0.2,59.03,72.8,12.21,13.52
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.9,0.4,63.05,70.72,13.31,10.31
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.9,0.6,65.06,66.87,12.79,5.39
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.9,0.8,65.77,66.38,13.56,2.0
+Who was John Moses Browning?,gemini-2.0-flash-lite,0.9,1.0,67.02,65.02,13.68,3.93
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.1,0.2,34.51,74.75,14.36,23.07
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.1,0.4,36.82,72.26,14.09,14.93
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.1,0.6,40.04,71.16,14.81,15.05
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.1,0.8,40.31,68.09,15.11,9.66
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.1,1.0,39.69,68.93,14.4,9.79
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.3,0.2,37.06,70.2,15.05,17.57
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.3,0.4,38.08,71.61,14.16,17.75
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.3,0.6,39.34,67.19,14.61,10.65
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.3,0.8,42.67,65.44,14.48,11.34
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.3,1.0,42.25,65.3,14.82,3.91
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.5,0.2,41.31,68.77,15.21,16.86
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.5,0.4,42.72,67.39,14.6,14.02
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.5,0.6,44.66,64.18,15.56,13.2
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.5,0.8,44.23,64.5,15.92,5.36
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.5,1.0,45.32,62.94,15.74,4.94
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.7,0.2,44.09,64.3,14.71,16.05
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.7,0.4,41.98,63.77,15.53,12.69
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.7,0.6,44.29,65.32,15.56,9.12
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.7,0.8,46.67,60.4,15.91,8.52
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.7,1.0,48.12,61.75,16.09,2.6
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.9,0.2,44.37,62.25,15.33,13.52
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.9,0.4,45.49,60.38,15.58,11.79
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.9,0.6,46.59,59.28,16.33,5.2
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.9,0.8,49.69,57.71,15.49,6.23
+Who is Thomas Jefferson?,gemini-2.0-flash-lite,0.9,1.0,50.88,58.23,16.23,4.68
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.1,0.2,84.82,69.13,7.88,21.19
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.1,0.4,89.5,70.84,8.4,20.01
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.1,0.6,91.9,67.5,8.32,12.48
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.1,0.8,95.13,65.72,7.84,13.27
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.1,1.0,96.97,66.6,8.48,10.04
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.3,0.2,91.88,69.99,8.6,19.28
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.3,0.4,94.07,64.93,8.82,17.58
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.3,0.6,95.57,64.27,8.64,11.45
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.3,0.8,98.86,62.3,8.92,10.0
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.3,1.0,100.0,61.57,8.72,3.78
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.5,0.2,96.48,64.41,8.3,16.05
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.5,0.4,97.98,65.16,8.81,14.41
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.5,0.6,99.84,61.21,8.15,11.71
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.5,0.8,100.0,60.82,8.84,7.91
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.5,1.0,100.0,59.55,9.04,2.68
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.7,0.2,100.0,62.14,8.78,15.32
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.7,0.4,100.0,59.91,8.52,13.0
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.7,0.6,100.0,59.66,8.39,7.22
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.7,0.8,100.0,58.5,8.23,7.88
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.7,1.0,100.0,57.43,9.15,3.4
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.9,0.2,100.0,61.68,8.22,15.97
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.9,0.4,100.0,57.26,9.32,12.97
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.9,0.6,100.0,58.21,9.15,7.31
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.9,0.8,100.0,54.72,8.78,6.61
+Who was Kyle Van Zyl playing against when he scored 36 of hisa teams 61 points?,gemini-2.0-flash-lite,0.9,1.0,100.0,56.69,9.58,0.0
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.1,0.2,55.79,0.0,6.66,20.34
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.1,0.4,55.9,0.0,6.44,16.2
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.1,0.6,56.9,0.04,6.23,14.26
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.1,0.8,61.76,0.0,7.04,13.11
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.1,1.0,63.31,0.0,6.41,6.38
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.3,0.2,58.0,1.04,6.88,16.66
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.3,0.4,60.59,0.0,7.07,17.16
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.3,0.6,61.21,1.7,6.91,13.41
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.3,0.8,63.82,1.46,7.06,7.51
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.3,1.0,63.5,0.0,6.74,5.25
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.5,0.2,59.0,0.03,6.61,16.71
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.5,0.4,60.91,1.33,6.4,16.19
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.5,0.6,66.02,0.46,6.98,10.78
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.5,0.8,66.72,1.17,7.52,7.7
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.5,1.0,69.65,0.61,6.9,4.85
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.7,0.2,62.56,0.0,6.5,17.79
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.7,0.4,65.24,0.86,7.05,10.44
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.7,0.6,66.77,0.0,7.04,9.54
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.7,0.8,68.32,0.0,6.92,5.85
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.7,1.0,70.95,0.39,7.66,4.28
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.9,0.2,65.4,0.0,7.33,12.5
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.9,0.4,69.94,0.63,7.67,13.04
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.9,0.6,70.29,0.33,6.82,6.9
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.9,0.8,74.74,0.79,7.42,5.37
+From the passage list down the areas for which Dar es Salaam is Tanzania's most prominent city. List the results in comma separated format.,gemini-2.0-flash-lite,0.9,1.0,76.53,0.0,7.73,3.55
+What is a polygon?,gemini-2.0-flash-lite,0.1,0.2,49.22,56.18,7.39,21.63
+What is a polygon?,gemini-2.0-flash-lite,0.1,0.4,50.39,54.61,7.24,16.74
+What is a polygon?,gemini-2.0-flash-lite,0.1,0.6,50.78,52.95,6.76,12.49
+What is a polygon?,gemini-2.0-flash-lite,0.1,0.8,54.81,52.45,6.89,9.03
+What is a polygon?,gemini-2.0-flash-lite,0.1,1.0,53.01,52.88,6.81,9.83
+What is a polygon?,gemini-2.0-flash-lite,0.3,0.2,52.11,55.03,6.59,17.62
+What is a polygon?,gemini-2.0-flash-lite,0.3,0.4,53.52,51.02,7.07,13.57
+What is a polygon?,gemini-2.0-flash-lite,0.3,0.6,55.46,52.58,7.66,10.59
+What is a polygon?,gemini-2.0-flash-lite,0.3,0.8,55.57,50.14,7.57,8.03
+What is a polygon?,gemini-2.0-flash-lite,0.3,1.0,57.28,48.64,7.74,6.29
+What is a polygon?,gemini-2.0-flash-lite,0.5,0.2,53.71,50.74,7.66,16.81
+What is a polygon?,gemini-2.0-flash-lite,0.5,0.4,56.6,49.97,7.9,16.91
+What is a polygon?,gemini-2.0-flash-lite,0.5,0.6,56.79,48.63,7.3,11.16
+What is a polygon?,gemini-2.0-flash-lite,0.5,0.8,60.49,49.77,7.87,5.83
+What is a polygon?,gemini-2.0-flash-lite,0.5,1.0,59.31,48.06,8.03,5.33
+What is a polygon?,gemini-2.0-flash-lite,0.7,0.2,54.79,50.88,7.86,14.11
+What is a polygon?,gemini-2.0-flash-lite,0.7,0.4,59.12,47.59,8.0,10.28
+What is a polygon?,gemini-2.0-flash-lite,0.7,0.6,59.5,49.29,7.25,9.11
+What is a polygon?,gemini-2.0-flash-lite,0.7,0.8,60.83,44.61,7.12,6.41
+What is a polygon?,gemini-2.0-flash-lite,0.7,1.0,62.06,47.48,7.58,0.57
+What is a polygon?,gemini-2.0-flash-lite,0.9,0.2,60.91,48.86,7.76,15.55
+What is a polygon?,gemini-2.0-flash-lite,0.9,0.4,59.42,45.65,8.05,11.98
+What is a polygon?,gemini-2.0-flash-lite,0.9,0.6,61.11,46.32,7.67,4.83
+What is a polygon?,gemini-2.0-flash-lite,0.9,0.8,62.55,43.52,8.21,5.09
+What is a polygon?,gemini-2.0-flash-lite,0.9,1.0,66.83,43.61,7.41,1.23
+How do I start running?,gemini-2.0-flash-lite,0.1,0.2,64.82,72.19,5.75,21.96
+How do I start running?,gemini-2.0-flash-lite,0.1,0.4,67.74,71.11,6.4,17.78
+How do I start running?,gemini-2.0-flash-lite,0.1,0.6,68.28,71.4,5.66,12.06
+How do I start running?,gemini-2.0-flash-lite,0.1,0.8,72.24,70.46,5.72,10.7
+How do I start running?,gemini-2.0-flash-lite,0.1,1.0,75.48,67.01,6.67,5.61
+How do I start running?,gemini-2.0-flash-lite,0.3,0.2,69.55,71.37,6.56,18.92
+How do I start running?,gemini-2.0-flash-lite,0.3,0.4,71.31,69.88,6.2,18.49
+How do I start running?,gemini-2.0-flash-lite,0.3,0.6,73.07,66.74,6.44,11.67
+How do I start running?,gemini-2.0-flash-lite,0.3,0.8,77.29,67.85,6.48,11.01
+How do I start running?,gemini-2.0-flash-lite,0.3,1.0,77.99,64.18,6.29,8.48
+How do I start running?,gemini-2.0-flash-lite,0.5,0.2,71.99,69.79,6.05,18.17
+How do I start running?,gemini-2.0-flash-lite,0.5,0.4,76.12,68.58,5.63,15.66
+How do I start running?,gemini-2.0-flash-lite,0.5,0.6,77.72,65.18,5.67,9.2
+How do I start running?,gemini-2.0-flash-lite,0.5,0.8,78.36,66.4,6.47,10.93
+How do I start running?,gemini-2.0-flash-lite,0.5,1.0,82.67,62.35,7.07,3.15
+How do I start running?,gemini-2.0-flash-lite,0.7,0.2,76.55,67.13,6.66,14.39
+How do I start running?,gemini-2.0-flash-lite,0.7,0.4,77.92,64.14,6.84,13.86
+How do I start running?,gemini-2.0-flash-lite,0.7,0.6,83.31,62.88,7.25,9.38
+How do I start running?,gemini-2.0-flash-lite,0.7,0.8,84.02,63.7,7.02,8.21
+How do I start running?,gemini-2.0-flash-lite,0.7,1.0,87.24,58.99,7.44,5.33
+How do I start running?,gemini-2.0-flash-lite,0.9,0.2,81.14,62.62,6.1,14.77
+How do I start running?,gemini-2.0-flash-lite,0.9,0.4,82.49,62.41,6.83,11.94
+How do I start running?,gemini-2.0-flash-lite,0.9,0.6,84.97,58.84,7.68,6.92
+How do I start running?,gemini-2.0-flash-lite,0.9,0.8,89.86,58.43,8.13,7.49
+How do I start running?,gemini-2.0-flash-lite,0.9,1.0,88.47,58.55,7.72,3.61
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.1,0.2,71.35,38.81,10.29,20.85
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.1,0.4,74.24,34.47,10.31,18.87
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.1,0.6,75.05,35.19,11.02,14.83
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.1,0.8,78.78,36.79,10.9,12.78
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.1,1.0,80.84,34.45,11.05,9.1
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.3,0.2,73.76,34.12,11.23,18.59
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.3,0.4,76.79,35.24,10.77,14.16
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.3,0.6,79.5,36.32,10.91,15.1
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.3,0.8,82.16,32.15,11.71,9.31
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.3,1.0,86.27,32.78,10.9,7.69
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.5,0.2,80.27,33.61,10.99,14.39
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.5,0.4,81.54,35.23,11.7,15.27
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.5,0.6,85.56,33.55,11.75,11.05
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.5,0.8,84.81,31.13,11.08,9.74
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.5,1.0,86.91,31.88,11.47,6.82
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.7,0.2,83.23,33.44,10.9,14.26
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.7,0.4,87.5,33.21,11.54,14.01
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.7,0.6,89.27,29.96,12.19,10.25
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.7,0.8,90.26,31.72,11.55,8.67
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.7,1.0,94.06,30.89,11.47,6.2
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.9,0.2,86.88,33.31,11.09,11.54
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.9,0.4,88.24,29.66,11.52,12.06
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.9,0.6,91.49,32.09,12.32,9.88
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.9,0.8,93.59,30.2,12.02,2.55
+Which episodes of season four of Game of Thrones did Michelle MacLaren direct?,gemini-2.0-flash-lite,0.9,1.0,96.28,29.13,12.08,0.0
+What is process mining?,gemini-2.0-flash-lite,0.1,0.2,67.15,72.62,12.71,21.52
+What is process mining?,gemini-2.0-flash-lite,0.1,0.4,68.1,74.04,12.73,19.15
+What is process mining?,gemini-2.0-flash-lite,0.1,0.6,68.08,69.52,12.96,14.66
+What is process mining?,gemini-2.0-flash-lite,0.1,0.8,72.87,71.07,12.82,12.03
+What is process mining?,gemini-2.0-flash-lite,0.1,1.0,74.55,69.18,12.8,10.94
+What is process mining?,gemini-2.0-flash-lite,0.3,0.2,69.14,72.56,13.01,17.38
+What is process mining?,gemini-2.0-flash-lite,0.3,0.4,69.79,68.24,12.85,15.51
+What is process mining?,gemini-2.0-flash-lite,0.3,0.6,72.61,69.1,12.83,13.91
+What is process mining?,gemini-2.0-flash-lite,0.3,0.8,77.02,68.78,13.75,7.38
+What is process mining?,gemini-2.0-flash-lite,0.3,1.0,77.86,66.25,13.1,6.4
+What is process mining?,gemini-2.0-flash-lite,0.5,0.2,72.1,67.66,12.57,15.74
+What is process mining?,gemini-2.0-flash-lite,0.5,0.4,74.86,67.8,12.88,16.19
+What is process mining?,gemini-2.0-flash-lite,0.5,0.6,76.26,65.31,13.41,9.88
+What is process mining?,gemini-2.0-flash-lite,0.5,0.8,80.96,64.66,13.47,7.99
+What is process mining?,gemini-2.0-flash-lite,0.5,1.0,81.44,61.43,14.12,5.03
+What is process mining?,gemini-2.0-flash-lite,0.7,0.2,78.72,64.86,13.14,12.7
+What is process mining?,gemini-2.0-flash-lite,0.7,0.4,79.13,66.2,13.63,12.22
+What is process mining?,gemini-2.0-flash-lite,0.7,0.6,81.59,64.73,13.5,11.69
+What is process mining?,gemini-2.0-flash-lite,0.7,0.8,84.64,63.06,13.55,5.8
+What is process mining?,gemini-2.0-flash-lite,0.7,1.0,86.31,59.45,13.91,0.84
+What is process mining?,gemini-2.0-flash-lite,0.9,0.2,80.69,64.39,13.32,16.73
+What is process mining?,gemini-2.0-flash-lite,0.9,0.4,83.69,60.48,14.28,10.16
+What is process mining?,gemini-2.0-flash-lite,0.9,0.6,86.44,60.03,14.37,9.33
+What is process mining?,gemini-2.0-flash-lite,0.9,0.8,86.35,59.37,13.98,2.07
+What is process mining?,gemini-2.0-flash-lite,0.9,1.0,88.4,57.34,14.08,1.54
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.1,0.2,58.85,55.56,10.25,20.88
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.1,0.4,59.12,56.46,10.85,16.0
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.1,0.6,61.87,54.81,10.71,15.45
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.1,0.8,63.77,53.76,10.63,12.24
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.1,1.0,68.54,51.83,11.25,9.55
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.3,0.2,62.59,51.61,10.64,21.4
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.3,0.4,65.02,53.6,10.88,16.93
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.3,0.6,66.27,50.18,11.05,13.32
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.3,0.8,69.35,49.09,11.22,6.79
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.3,1.0,71.83,47.94,10.54,5.48
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.5,0.2,63.86,52.26,10.79,18.65
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.5,0.4,68.99,51.99,11.29,11.37
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.5,0.6,67.91,48.33,10.91,11.97
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.5,0.8,71.51,47.76,10.83,10.47
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.5,1.0,72.82,46.92,11.66,6.33
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.7,0.2,69.24,50.27,11.25,13.55
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.7,0.4,69.71,48.73,10.9,15.24
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.7,0.6,71.96,46.66,10.99,10.63
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.7,0.8,74.09,45.9,11.97,8.17
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.7,1.0,75.97,43.99,11.77,2.68
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.9,0.2,74.01,48.77,11.88,15.63
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.9,0.4,73.3,45.65,11.7,9.88
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.9,0.6,75.96,44.53,11.53,6.01
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.9,0.8,78.39,46.23,11.9,2.62
+What are some unique curtain tie backs that you can make yourself?,gemini-2.0-flash-lite,0.9,1.0,80.75,43.85,11.47,2.82
+What is a dispersive prism?,gemini-2.0-flash-lite,0.1,0.2,60.87,74.56,9.63,19.68
+What is a dispersive prism?,gemini-2.0-flash-lite,0.1,0.4,63.75,71.07,10.6,14.23
+What is a dispersive prism?,gemini-2.0-flash-lite,0.1,0.6,65.21,73.05,10.27,16.81
+What is a dispersive prism?,gemini-2.0-flash-lite,0.1,0.8,68.66,69.91,10.13,13.98
+What is a dispersive prism?,gemini-2.0-flash-lite,0.1,1.0,68.56,69.25,11.09,5.74
+What is a dispersive prism?,gemini-2.0-flash-lite,0.3,0.2,64.6,71.48,10.65,21.22
+What is a dispersive prism?,gemini-2.0-flash-lite,0.3,0.4,68.08,68.7,10.95,13.65
+What is a dispersive prism?,gemini-2.0-flash-lite,0.3,0.6,70.24,70.66,10.47,12.57
+What is a dispersive prism?,gemini-2.0-flash-lite,0.3,0.8,72.44,69.19,11.22,11.86
+What is a dispersive prism?,gemini-2.0-flash-lite,0.3,1.0,70.86,66.28,10.34,9.5
+What is a dispersive prism?,gemini-2.0-flash-lite,0.5,0.2,66.99,70.63,10.65,16.96
+What is a dispersive prism?,gemini-2.0-flash-lite,0.5,0.4,71.74,68.74,10.67,12.16
+What is a dispersive prism?,gemini-2.0-flash-lite,0.5,0.6,70.57,64.65,10.76,9.54
+What is a dispersive prism?,gemini-2.0-flash-lite,0.5,0.8,72.99,65.62,11.27,8.41
+What is a dispersive prism?,gemini-2.0-flash-lite,0.5,1.0,77.41,62.04,11.46,7.38
+What is a dispersive prism?,gemini-2.0-flash-lite,0.7,0.2,72.71,66.06,10.32,16.42
+What is a dispersive prism?,gemini-2.0-flash-lite,0.7,0.4,72.28,63.23,10.71,10.89
+What is a dispersive prism?,gemini-2.0-flash-lite,0.7,0.6,74.71,62.28,11.33,12.12
+What is a dispersive prism?,gemini-2.0-flash-lite,0.7,0.8,77.01,62.89,10.55,7.32
+What is a dispersive prism?,gemini-2.0-flash-lite,0.7,1.0,80.7,58.92,10.79,2.24
+What is a dispersive prism?,gemini-2.0-flash-lite,0.9,0.2,74.58,63.35,11.5,15.02
+What is a dispersive prism?,gemini-2.0-flash-lite,0.9,0.4,76.33,60.47,11.64,9.57
+What is a dispersive prism?,gemini-2.0-flash-lite,0.9,0.6,79.68,59.55,10.8,5.72
+What is a dispersive prism?,gemini-2.0-flash-lite,0.9,0.8,82.34,59.76,11.25,5.1
+What is a dispersive prism?,gemini-2.0-flash-lite,0.9,1.0,83.37,58.15,11.66,1.09
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.1,0.2,73.8,70.39,6.79,17.69
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.1,0.4,77.22,68.94,5.9,17.59
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.1,0.6,78.31,67.07,6.48,14.64
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.1,0.8,81.29,64.94,6.57,8.9
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.1,1.0,84.13,64.71,6.12,8.26
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.3,0.2,80.42,66.69,6.49,18.34
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.3,0.4,80.04,65.47,6.91,16.94
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.3,0.6,84.02,65.64,6.9,13.07
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.3,0.8,85.24,62.5,6.15,12.56
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.3,1.0,91.43,60.15,7.26,3.79
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.5,0.2,83.2,65.45,6.93,19.87
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.5,0.4,86.77,62.81,7.27,13.29
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.5,0.6,90.29,63.5,6.59,12.1
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.5,0.8,92.08,60.78,6.99,7.09
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.5,1.0,92.78,59.52,6.91,6.37
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.7,0.2,86.83,59.89,6.17,14.19
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.7,0.4,91.26,60.8,6.85,14.34
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.7,0.6,92.18,58.76,6.61,12.02
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.7,0.8,96.71,56.58,7.37,5.92
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.7,1.0,99.5,58.41,6.73,1.64
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.9,0.2,90.72,57.51,7.0,15.02
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.9,0.4,93.13,59.09,6.83,9.21
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.9,0.6,96.43,58.33,6.7,7.82
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.9,0.8,99.34,56.89,7.83,3.71
+"Identify which instrument is string or percussion: Cantaro, Gudok",gemini-2.0-flash-lite,0.9,1.0,100.0,55.07,7.67,0.61
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.1,0.2,55.58,0.64,6.84,19.0
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.1,0.4,57.25,1.79,7.7,19.67
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.1,0.6,61.51,0.0,7.32,17.03
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.1,0.8,64.77,0.69,7.74,10.11
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.1,1.0,64.67,0.0,7.33,9.73
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.3,0.2,60.23,1.4,7.09,19.85
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.3,0.4,63.56,1.66,7.48,18.41
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.3,0.6,64.57,0.0,7.17,10.82
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.3,0.8,66.92,1.69,7.97,7.15
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.3,1.0,69.24,0.0,7.35,7.64
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.5,0.2,64.08,1.49,7.1,18.57
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.5,0.4,66.57,0.24,7.53,16.22
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.5,0.6,67.0,1.83,7.05,13.62
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.5,0.8,71.52,0.0,8.3,7.87
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.5,1.0,70.64,0.42,7.43,7.49
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.7,0.2,67.21,1.1,7.48,15.6
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.7,0.4,68.44,0.0,7.72,12.38
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.7,0.6,69.4,1.93,7.74,11.44
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.7,0.8,74.66,0.0,7.75,6.78
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.7,1.0,73.89,0.0,7.64,6.01
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.9,0.2,70.65,0.0,7.36,12.78
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.9,0.4,71.86,1.33,7.85,11.73
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.9,0.6,75.08,0.0,8.32,10.6
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.9,0.8,76.9,0.0,7.61,6.57
+Give me the top 5 golf equipment company names.,gemini-2.0-flash-lite,0.9,1.0,77.01,0.88,8.07,4.3
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.1,0.2,85.67,32.28,4.04,17.4
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.1,0.4,89.89,32.92,5.05,18.79
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.1,0.6,91.15,31.94,4.81,15.44
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.1,0.8,92.54,30.02,5.27,11.91
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.1,1.0,98.17,29.89,5.69,8.13
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.3,0.2,88.53,30.78,4.47,18.78
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.3,0.4,92.6,31.91,4.76,17.48
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.3,0.6,97.2,30.65,6.13,10.24
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.3,0.8,97.89,27.45,5.56,9.76
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.3,1.0,100.0,27.35,6.11,5.84
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.5,0.2,95.12,29.69,6.14,15.36
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.5,0.4,99.24,30.25,6.04,16.15
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.5,0.6,100.0,26.66,6.01,11.32
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.5,0.8,100.0,25.75,6.06,8.0
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.5,1.0,100.0,28.28,6.84,7.15
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.7,0.2,98.88,28.4,5.52,13.67
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.7,0.4,100.0,29.26,6.34,9.68
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.7,0.6,100.0,28.84,7.16,9.78
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.7,0.8,100.0,28.29,6.77,9.17
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.7,1.0,100.0,27.01,7.57,2.79
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.9,0.2,100.0,25.79,6.29,15.81
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.9,0.4,100.0,28.16,6.71,12.33
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.9,0.6,100.0,27.95,7.5,7.8
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.9,0.8,100.0,23.64,7.48,6.83
+What individual has won the most Olympic gold medals in the history of the games?,gemini-2.0-flash-lite,0.9,1.0,100.0,25.93,8.43,1.18
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.1,0.2,86.59,0.0,7.67,23.16
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.1,0.4,88.46,0.0,8.55,16.79
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.1,0.6,92.22,0.64,7.61,14.91
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.1,0.8,95.69,0.85,7.69,9.13
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.1,1.0,98.35,0.54,8.56,7.1
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.3,0.2,88.93,0.0,7.88,17.76
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.3,0.4,92.58,0.0,7.81,15.29
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.3,0.6,96.72,0.0,7.71,11.72
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.3,0.8,97.87,0.39,8.15,8.91
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.3,1.0,100.0,0.0,7.94,9.01
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.5,0.2,97.12,1.91,8.36,15.02
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.5,0.4,98.02,0.0,8.12,13.96
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.5,0.6,99.75,0.0,8.35,10.91
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.5,0.8,100.0,0.0,8.22,8.75
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.5,1.0,100.0,0.0,8.14,3.83
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.7,0.2,100.0,0.0,8.59,17.22
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.7,0.4,100.0,0.0,8.9,14.56
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.7,0.6,100.0,0.0,8.39,12.08
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.7,0.8,100.0,0.0,9.25,9.21
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.7,1.0,100.0,0.78,8.77,3.86
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.9,0.2,100.0,0.0,8.99,13.16
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.9,0.4,100.0,0.26,8.8,11.07
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.9,0.6,100.0,0.2,9.32,7.57
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.9,0.8,100.0,0.0,8.61,5.96
+Which Dutch artist painted “Girl with a Pearl Earring”?,gemini-2.0-flash-lite,0.9,1.0,100.0,1.18,8.84,1.8
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.1,0.2,76.53,26.72,4.76,21.49
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.1,0.4,79.82,25.55,5.44,17.08
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.1,0.6,80.94,26.78,5.64,15.35
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.1,0.8,84.18,27.41,5.25,13.57
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.1,1.0,86.82,26.3,5.21,9.81
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.3,0.2,81.08,26.17,5.23,15.87
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.3,0.4,85.05,26.96,5.22,17.12
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.3,0.6,87.64,25.47,5.05,11.15
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.3,0.8,88.49,25.33,6.03,10.05
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.3,1.0,90.9,24.31,6.56,7.13
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.5,0.2,84.89,25.13,4.98,14.63
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.5,0.4,87.22,27.1,5.39,16.64
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.5,0.6,88.79,24.0,6.1,9.24
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.5,0.8,92.82,24.15,6.38,9.18
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.5,1.0,94.83,22.95,7.14,2.69
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.7,0.2,90.73,25.34,6.28,13.39
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.7,0.4,93.94,23.23,5.98,10.36
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.7,0.6,94.91,25.58,6.36,8.83
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.7,0.8,96.07,23.81,6.92,3.58
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.7,1.0,100.0,21.54,7.43,2.73
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.9,0.2,94.6,22.57,6.9,15.65
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.9,0.4,94.7,21.66,7.36,8.92
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.9,0.6,98.42,22.58,6.95,9.98
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.9,0.8,100.0,22.81,7.67,5.47
+What happens when the sun goes down?,gemini-2.0-flash-lite,0.9,1.0,100.0,21.14,8.3,2.5
+What is a verb?,gemini-2.0-flash-lite,0.1,0.2,55.93,56.32,7.44,20.89
+What is a verb?,gemini-2.0-flash-lite,0.1,0.4,54.93,53.04,7.31,16.03
+What is a verb?,gemini-2.0-flash-lite,0.1,0.6,57.25,54.27,7.86,13.71
+What is a verb?,gemini-2.0-flash-lite,0.1,0.8,58.98,52.03,7.55,12.01
+What is a verb?,gemini-2.0-flash-lite,0.1,1.0,63.12,52.08,8.61,8.53
+What is a verb?,gemini-2.0-flash-lite,0.3,0.2,57.83,52.06,7.62,18.31
+What is a verb?,gemini-2.0-flash-lite,0.3,0.4,58.01,51.94,7.34,13.42
+What is a verb?,gemini-2.0-flash-lite,0.3,0.6,62.97,53.36,8.01,12.57
+What is a verb?,gemini-2.0-flash-lite,0.3,0.8,64.37,50.16,8.5,9.53
+What is a verb?,gemini-2.0-flash-lite,0.3,1.0,63.88,47.62,8.48,5.35
+What is a verb?,gemini-2.0-flash-lite,0.5,0.2,60.17,51.65,7.61,16.74
+What is a verb?,gemini-2.0-flash-lite,0.5,0.4,63.96,51.56,8.15,11.68
+What is a verb?,gemini-2.0-flash-lite,0.5,0.6,63.37,50.6,8.56,10.2
+What is a verb?,gemini-2.0-flash-lite,0.5,0.8,68.12,46.67,8.51,8.28
+What is a verb?,gemini-2.0-flash-lite,0.5,1.0,70.71,45.91,8.73,6.51
+What is a verb?,gemini-2.0-flash-lite,0.7,0.2,63.46,51.5,8.11,14.49
+What is a verb?,gemini-2.0-flash-lite,0.7,0.4,67.46,48.26,8.84,14.05
+What is a verb?,gemini-2.0-flash-lite,0.7,0.6,67.05,48.74,8.44,8.5
+What is a verb?,gemini-2.0-flash-lite,0.7,0.8,70.87,47.03,8.01,4.24
+What is a verb?,gemini-2.0-flash-lite,0.7,1.0,70.77,44.33,7.97,2.5
+What is a verb?,gemini-2.0-flash-lite,0.9,0.2,66.59,47.66,8.12,15.02
+What is a verb?,gemini-2.0-flash-lite,0.9,0.4,68.54,45.57,8.84,13.71
+What is a verb?,gemini-2.0-flash-lite,0.9,0.6,72.02,43.88,9.05,9.51
+What is a verb?,gemini-2.0-flash-lite,0.9,0.8,74.9,46.47,9.02,2.56
+What is a verb?,gemini-2.0-flash-lite,0.9,1.0,76.61,42.5,8.91,3.77
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.1,0.2,50.64,46.96,13.87,20.66
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.1,0.4,50.4,45.08,13.97,18.0
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.1,0.6,54.59,42.96,14.19,15.34
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.1,0.8,56.56,43.23,14.86,15.63
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.1,1.0,54.56,44.02,14.75,18.06
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.3,0.2,52.32,45.24,14.01,15.98
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.3,0.4,54.37,42.62,14.24,14.94
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.3,0.6,55.04,44.23,14.27,17.14
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.3,0.8,57.97,42.03,14.43,17.77
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.3,1.0,57.64,39.65,15.1,16.43
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.5,0.2,53.89,44.35,14.4,14.0
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.5,0.4,58.96,40.9,14.84,14.46
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.5,0.6,59.47,39.89,15.28,15.31
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.5,0.8,61.23,39.42,14.76,19.09
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.5,1.0,61.01,39.17,14.82,17.87
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.7,0.2,57.23,41.88,15.01,13.68
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.7,0.4,59.94,38.95,14.58,17.75
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.7,0.6,59.81,40.37,15.44,19.6
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.7,0.8,63.2,37.28,14.69,15.97
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.7,1.0,66.17,36.33,15.13,18.96
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.9,0.2,59.74,40.68,15.36,14.47
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.9,0.4,64.9,37.32,15.24,13.72
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.9,0.6,65.27,37.68,15.62,17.44
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.9,0.8,65.02,36.73,15.72,18.83
+Extract the owner of Lamborghini and a listing of the different types of Huracan cars that Lamborghini has produced for its Motorsport division.,gemini-2.0-flash-lite,0.9,1.0,66.5,34.65,15.95,17.21
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.1,0.2,74.98,47.56,7.71,18.04
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.1,0.4,77.2,43.22,8.08,17.8
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.1,0.6,81.17,45.18,8.32,16.29
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.1,0.8,84.02,42.45,8.2,11.26
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.1,1.0,87.03,41.6,7.73,10.59
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.3,0.2,81.68,44.04,7.63,18.6
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.3,0.4,82.88,43.35,8.75,18.52
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.3,0.6,86.89,40.94,8.7,13.01
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.3,0.8,87.26,42.32,8.66,12.33
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.3,1.0,91.53,38.83,7.91,5.17
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.5,0.2,82.43,40.66,8.61,17.04
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.5,0.4,87.43,41.6,8.25,15.21
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.5,0.6,87.89,40.91,8.57,9.66
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.5,0.8,91.45,39.99,8.16,9.85
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.5,1.0,95.0,38.68,8.76,7.01
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.7,0.2,89.41,39.03,8.67,16.78
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.7,0.4,92.71,38.18,8.02,12.01
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.7,0.6,93.79,39.56,8.37,10.85
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.7,0.8,97.59,36.78,8.93,7.61
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.7,1.0,97.93,39.29,8.8,5.1
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.9,0.2,93.98,37.79,8.15,15.49
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.9,0.4,94.82,39.84,9.01,7.98
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.9,0.6,99.62,36.56,8.24,9.07
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.9,0.8,100.0,34.96,8.8,3.96
+"Which of the following is useful for transportation: a glass of wine, a lamp, a train, an iced cube tray, a plane, a bicycle, an apple and a scooter.",gemini-2.0-flash-lite,0.9,1.0,100.0,36.09,8.78,0.33
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.1,0.2,73.22,69.67,5.21,18.57
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.1,0.4,77.47,66.3,5.43,15.67
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.1,0.6,79.95,66.41,4.71,16.79
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.1,0.8,84.12,65.84,5.92,12.64
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.1,1.0,84.99,63.66,5.61,9.52
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.3,0.2,78.27,65.19,4.9,18.61
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.3,0.4,83.42,64.34,5.71,18.49
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.3,0.6,86.25,62.65,5.59,11.29
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.3,0.8,88.44,62.43,5.99,6.65
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.3,1.0,88.49,62.13,6.0,7.34
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.5,0.2,83.42,64.74,5.55,18.64
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.5,0.4,84.97,64.73,6.16,12.47
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.5,0.6,86.84,61.52,5.83,10.08
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.5,0.8,92.8,62.13,7.0,5.01
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.5,1.0,94.69,60.77,7.04,2.62
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.7,0.2,88.06,60.83,6.06,12.76
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.7,0.4,92.55,61.47,5.89,14.93
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.7,0.6,94.78,59.45,6.92,8.63
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.7,0.8,97.71,56.46,6.51,4.2
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.7,1.0,99.72,55.17,7.4,3.01
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.9,0.2,94.17,58.32,6.31,12.69
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.9,0.4,96.14,58.93,7.2,9.71
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.9,0.6,96.65,55.17,6.87,9.48
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.9,0.8,100.0,54.25,7.15,4.6
+"Identify which instrument is string or woodwind: Panduri, Zurna",gemini-2.0-flash-lite,0.9,1.0,100.0,54.52,8.44,0.05
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.1,0.2,84.73,87.86,6.75,18.15
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.1,0.4,89.24,88.51,7.52,14.44
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.1,0.6,92.84,84.91,6.87,12.69
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.1,0.8,93.92,84.05,7.65,9.76
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.1,1.0,99.46,80.52,7.4,7.91
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.3,0.2,91.49,84.6,7.32,20.42
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.3,0.4,92.06,82.05,7.84,18.5
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.3,0.6,95.02,83.69,7.36,13.38
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.3,0.8,100.0,81.13,7.3,11.48
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.3,1.0,100.0,77.46,8.15,6.26
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.5,0.2,94.02,84.02,7.91,15.99
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.5,0.4,96.67,80.64,7.19,14.44
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.5,0.6,100.0,78.78,7.1,12.1
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.5,0.8,100.0,76.46,7.37,6.68
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.5,1.0,100.0,74.14,7.96,3.47
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.7,0.2,99.68,78.85,7.73,12.77
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.7,0.4,100.0,76.15,7.38,14.71
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.7,0.6,100.0,76.52,8.18,11.17
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.7,0.8,100.0,75.53,7.73,6.67
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.7,1.0,100.0,74.45,7.98,2.73
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.9,0.2,100.0,75.28,7.48,16.17
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.9,0.4,100.0,72.63,8.49,10.98
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.9,0.6,100.0,74.8,8.54,5.4
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.9,0.8,100.0,70.27,8.43,7.3
+What is the average lifespan of a Golden Retriever?,gemini-2.0-flash-lite,0.9,1.0,100.0,71.59,7.79,3.88
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.1,0.2,79.57,88.22,5.9,22.27
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.1,0.4,79.83,87.57,5.92,18.39
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.1,0.6,85.53,83.71,5.85,16.89
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.1,0.8,86.88,84.25,5.29,14.13
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.1,1.0,90.9,82.37,5.49,8.14
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.3,0.2,81.32,84.53,5.27,18.76
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.3,0.4,83.71,85.67,5.31,13.38
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.3,0.6,89.33,84.08,6.14,11.54
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.3,0.8,89.3,81.15,6.43,11.25
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.3,1.0,95.35,80.64,6.78,5.84
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.5,0.2,89.31,81.98,5.24,15.81
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.5,0.4,88.84,79.43,6.39,15.75
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.5,0.6,94.89,79.8,5.76,13.81
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.5,0.8,96.57,79.32,6.8,6.34
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.5,1.0,98.9,74.7,6.53,6.13
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.7,0.2,90.64,80.12,6.61,18.09
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.7,0.4,94.44,79.58,6.93,9.59
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.7,0.6,98.04,77.68,7.24,7.73
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.7,0.8,100.0,76.15,6.57,7.87
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.7,1.0,100.0,74.73,6.92,5.71
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.9,0.2,95.07,76.84,6.77,16.12
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.9,0.4,99.25,73.46,6.61,8.21
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.9,0.6,100.0,71.23,6.63,7.12
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.9,0.8,100.0,73.08,8.02,4.76
+Who became king of Holland in 1806?,gemini-2.0-flash-lite,0.9,1.0,100.0,69.78,7.4,1.68
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.1,0.2,58.9,100.0,12.6,18.18
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.1,0.4,57.75,100.0,12.26,16.11
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.1,0.6,63.28,100.0,12.25,13.45
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.1,0.8,64.41,100.0,13.25,8.76
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.1,1.0,65.88,100.0,12.88,5.39
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.3,0.2,62.57,100.0,13.11,16.54
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.3,0.4,61.22,100.0,12.4,16.78
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.3,0.6,65.72,100.0,12.62,11.29
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.3,0.8,65.79,99.2,13.12,11.64
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.3,1.0,67.47,98.44,13.08,5.37
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.5,0.2,64.8,100.0,12.54,14.15
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.5,0.4,64.86,100.0,12.53,16.06
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.5,0.6,67.42,98.59,13.15,11.97
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.5,0.8,68.57,97.18,12.92,10.31
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.5,1.0,71.7,94.78,13.14,4.79
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.7,0.2,66.42,98.07,12.64,16.91
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.7,0.4,70.2,95.34,13.11,12.65
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.7,0.6,73.43,95.36,13.49,11.44
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.7,0.8,74.84,92.67,13.6,8.6
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.7,1.0,75.48,92.53,13.66,0.87
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.9,0.2,72.49,95.86,13.43,16.2
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.9,0.4,74.09,93.71,13.7,8.52
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.9,0.6,75.93,89.69,14.27,10.63
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.9,0.8,78.15,87.5,13.73,7.73
+What is best Playstation or Xbox,gemini-2.0-flash-lite,0.9,1.0,78.68,88.99,14.1,3.8
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.1,0.2,84.53,1.64,5.07,17.6
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.1,0.4,88.05,0.0,4.64,15.86
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.1,0.6,91.33,1.49,5.48,14.94
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.1,0.8,94.59,0.0,5.32,9.09
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.1,1.0,97.85,1.03,6.24,10.75
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.3,0.2,90.75,0.0,4.8,18.81
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.3,0.4,92.88,0.0,5.2,15.51
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.3,0.6,96.94,0.0,5.36,10.46
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.3,0.8,99.93,0.77,5.38,11.94
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.3,1.0,100.0,0.0,6.53,9.13
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.5,0.2,97.09,0.0,5.94,15.82
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.5,0.4,97.62,0.0,6.09,11.59
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.5,0.6,100.0,0.0,6.72,10.66
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.5,0.8,100.0,0.0,6.36,8.87
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.5,1.0,100.0,0.0,7.15,6.45
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.7,0.2,100.0,1.47,6.46,15.49
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.7,0.4,100.0,0.0,6.38,10.21
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.7,0.6,100.0,1.52,6.12,7.56
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.7,0.8,100.0,1.35,6.7,6.14
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.7,1.0,100.0,0.82,7.04,5.34
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.9,0.2,100.0,0.54,6.15,10.98
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.9,0.4,100.0,0.38,6.53,13.02
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.9,0.6,100.0,0.0,6.83,10.17
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.9,0.8,100.0,0.76,7.3,4.12
+Who played Billy the Kid in The Left Handed Gun,gemini-2.0-flash-lite,0.9,1.0,100.0,0.29,8.44,3.94
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.1,0.2,53.13,93.21,4.3,19.66
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.1,0.4,52.46,91.95,5.17,14.25
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.1,0.6,57.87,89.75,5.26,11.25
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.1,0.8,57.08,88.72,5.19,14.0
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.1,1.0,60.48,85.53,5.56,7.29
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.3,0.2,54.62,89.03,5.27,20.55
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.3,0.4,57.04,85.91,5.36,16.57
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.3,0.6,60.67,85.33,5.81,13.25
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.3,0.8,60.34,82.6,5.41,12.53
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.3,1.0,63.55,83.94,5.94,7.87
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.5,0.2,60.25,85.03,5.14,18.59
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.5,0.4,62.13,85.39,6.21,14.6
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.5,0.6,63.01,83.22,6.42,11.93
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.5,0.8,66.21,79.87,6.36,7.33
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.5,1.0,64.2,80.0,6.85,3.14
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.7,0.2,62.66,81.39,6.11,17.11
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.7,0.4,65.23,81.52,6.38,14.47
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.7,0.6,66.81,80.67,6.3,6.99
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.7,0.8,65.8,76.53,7.37,7.98
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.7,1.0,67.86,76.55,7.12,0.94
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.9,0.2,64.25,80.14,6.37,15.53
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.9,0.4,66.0,76.54,6.67,12.91
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.9,0.6,68.4,77.3,7.33,10.47
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.9,0.8,68.65,75.72,7.55,7.0
+why did Syd Barrett left the Pink Floyd?,gemini-2.0-flash-lite,0.9,1.0,71.73,71.69,7.35,3.93
+what is REST API,gemini-2.0-flash-lite,0.1,0.2,45.51,100.0,9.94,20.62
+what is REST API,gemini-2.0-flash-lite,0.1,0.4,50.23,100.0,9.93,18.49
+what is REST API,gemini-2.0-flash-lite,0.1,0.6,51.37,100.0,10.42,12.26
+what is REST API,gemini-2.0-flash-lite,0.1,0.8,52.44,100.0,10.09,12.77
+what is REST API,gemini-2.0-flash-lite,0.1,1.0,52.22,100.0,10.46,9.78
+what is REST API,gemini-2.0-flash-lite,0.3,0.2,48.05,100.0,10.42,18.02
+what is REST API,gemini-2.0-flash-lite,0.3,0.4,53.21,100.0,9.81,13.8
+what is REST API,gemini-2.0-flash-lite,0.3,0.6,52.49,100.0,10.26,14.6
+what is REST API,gemini-2.0-flash-lite,0.3,0.8,53.41,100.0,10.73,8.09
+what is REST API,gemini-2.0-flash-lite,0.3,1.0,57.07,98.38,10.24,5.9
+what is REST API,gemini-2.0-flash-lite,0.5,0.2,52.8,100.0,10.86,15.79
+what is REST API,gemini-2.0-flash-lite,0.5,0.4,53.26,100.0,10.69,13.03
+what is REST API,gemini-2.0-flash-lite,0.5,0.6,57.3,100.0,10.49,13.41
+what is REST API,gemini-2.0-flash-lite,0.5,0.8,56.83,95.75,11.33,10.51
+what is REST API,gemini-2.0-flash-lite,0.5,1.0,58.65,93.91,11.17,2.79
+what is REST API,gemini-2.0-flash-lite,0.7,0.2,56.13,99.36,10.29,14.6
+what is REST API,gemini-2.0-flash-lite,0.7,0.4,57.44,95.15,11.24,10.93
+what is REST API,gemini-2.0-flash-lite,0.7,0.6,58.63,93.19,11.49,10.37
+what is REST API,gemini-2.0-flash-lite,0.7,0.8,60.75,91.08,11.23,5.9
+what is REST API,gemini-2.0-flash-lite,0.7,1.0,61.31,91.19,11.08,1.32
+what is REST API,gemini-2.0-flash-lite,0.9,0.2,58.72,95.52,10.66,14.77
+what is REST API,gemini-2.0-flash-lite,0.9,0.4,60.24,92.08,11.13,8.62
+what is REST API,gemini-2.0-flash-lite,0.9,0.6,62.56,89.42,11.37,5.51
+what is REST API,gemini-2.0-flash-lite,0.9,0.8,61.34,87.43,10.85,3.0
+what is REST API,gemini-2.0-flash-lite,0.9,1.0,63.58,87.09,10.96,3.02
+What is underwriting?,gemini-2.0-flash-lite,0.1,0.2,51.18,53.66,16.51,18.45
+What is underwriting?,gemini-2.0-flash-lite,0.1,0.4,55.56,53.82,16.1,18.23
+What is underwriting?,gemini-2.0-flash-lite,0.1,0.6,57.28,54.84,17.07,12.09
+What is underwriting?,gemini-2.0-flash-lite,0.1,0.8,55.84,52.55,17.31,8.81
+What is underwriting?,gemini-2.0-flash-lite,0.1,1.0,58.32,50.42,17.8,6.98
+What is underwriting?,gemini-2.0-flash-lite,0.3,0.2,54.9,51.9,16.48,15.84
+What is underwriting?,gemini-2.0-flash-lite,0.3,0.4,56.03,53.71,16.82,17.03
+What is underwriting?,gemini-2.0-flash-lite,0.3,0.6,57.07,52.53,16.67,14.71
+What is underwriting?,gemini-2.0-flash-lite,0.3,0.8,61.17,49.18,17.22,9.23
+What is underwriting?,gemini-2.0-flash-lite,0.3,1.0,62.83,51.01,17.08,8.49
+What is underwriting?,gemini-2.0-flash-lite,0.5,0.2,56.81,51.1,17.77,15.63
+What is underwriting?,gemini-2.0-flash-lite,0.5,0.4,59.45,51.9,17.75,14.89
+What is underwriting?,gemini-2.0-flash-lite,0.5,0.6,62.92,47.95,17.8,8.35
+What is underwriting?,gemini-2.0-flash-lite,0.5,0.8,65.33,47.14,17.64,8.54
+What is underwriting?,gemini-2.0-flash-lite,0.5,1.0,66.59,48.21,17.53,4.28
+What is underwriting?,gemini-2.0-flash-lite,0.7,0.2,60.56,47.62,17.79,17.43
+What is underwriting?,gemini-2.0-flash-lite,0.7,0.4,64.84,47.02,18.0,10.08
+What is underwriting?,gemini-2.0-flash-lite,0.7,0.6,64.42,45.68,17.63,8.29
+What is underwriting?,gemini-2.0-flash-lite,0.7,0.8,67.42,47.21,18.0,6.86
+What is underwriting?,gemini-2.0-flash-lite,0.7,1.0,68.68,47.41,18.0,2.43
+What is underwriting?,gemini-2.0-flash-lite,0.9,0.2,64.26,48.3,17.43,14.77
+What is underwriting?,gemini-2.0-flash-lite,0.9,0.4,64.98,45.88,18.0,10.11
+What is underwriting?,gemini-2.0-flash-lite,0.9,0.6,69.17,45.73,18.0,5.13
+What is underwriting?,gemini-2.0-flash-lite,0.9,0.8,70.21,43.13,18.0,6.91
+What is underwriting?,gemini-2.0-flash-lite,0.9,1.0,72.94,41.8,18.0,0.25
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.1,0.2,56.85,45.78,14.27,21.06
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.1,0.4,56.51,45.66,14.71,19.01
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.1,0.6,58.62,47.29,14.85,11.91
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.1,0.8,60.74,45.62,14.59,10.67
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.1,1.0,62.91,42.15,14.73,8.83
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.3,0.2,58.66,45.08,14.92,16.84
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.3,0.4,60.8,46.8,14.9,12.93
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.3,0.6,60.93,43.96,15.29,13.32
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.3,0.8,63.86,43.92,15.63,7.28
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.3,1.0,66.93,41.32,15.34,8.58
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.5,0.2,63.25,43.31,15.24,18.21
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.5,0.4,61.51,41.95,14.94,15.3
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.5,0.6,66.14,40.86,15.66,9.13
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.5,0.8,68.9,41.15,15.63,9.69
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.5,1.0,69.98,39.15,15.73,7.56
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.7,0.2,65.96,42.79,15.85,15.1
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.7,0.4,67.17,43.4,15.24,12.39
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.7,0.6,68.59,38.91,16.36,11.43
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.7,0.8,70.33,39.89,16.5,4.46
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.7,1.0,72.64,39.92,15.7,2.72
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.9,0.2,68.23,42.25,15.84,13.11
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.9,0.4,71.67,41.52,16.31,9.44
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.9,0.6,73.54,40.88,16.09,5.6
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.9,0.8,73.26,38.95,16.6,3.59
+Give me a list of some characteristics of a good coffee shop?,gemini-2.0-flash-lite,0.9,1.0,76.35,38.73,16.71,4.41
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.1,0.2,59.81,54.3,11.36,18.94
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.1,0.4,60.74,55.19,11.9,18.1
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.1,0.6,65.27,53.52,11.68,13.13
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.1,0.8,63.98,51.91,11.54,11.62
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.1,1.0,68.27,51.17,11.98,10.25
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.3,0.2,61.89,54.89,11.81,18.74
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.3,0.4,62.92,51.08,11.77,13.8
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.3,0.6,67.9,50.14,11.43,11.1
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.3,0.8,70.34,51.26,11.55,11.12
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.3,1.0,69.19,50.76,11.44,8.81
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.5,0.2,67.17,52.96,11.97,17.37
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.5,0.4,67.24,51.64,12.16,12.73
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.5,0.6,71.03,51.21,11.78,13.74
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.5,0.8,74.35,47.75,12.1,5.08
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.5,1.0,73.54,47.98,12.49,7.22
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.7,0.2,71.0,51.15,12.16,16.29
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.7,0.4,72.78,48.69,12.16,14.06
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.7,0.6,75.69,46.68,11.77,10.5
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.7,0.8,74.66,45.2,12.29,5.66
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.7,1.0,77.71,45.73,11.95,3.9
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.9,0.2,72.16,46.82,12.41,11.73
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.9,0.4,73.84,45.79,11.74,13.39
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.9,0.6,77.77,46.15,12.38,8.24
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.9,0.8,78.82,45.64,12.29,3.12
+Please summarize what Linkedin does.,gemini-2.0-flash-lite,0.9,1.0,80.2,41.77,12.64,1.3
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.1,0.2,85.65,0.0,7.6,18.48
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.1,0.4,87.83,0.0,7.68,18.72
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.1,0.6,91.62,1.99,8.49,17.09
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.1,0.8,92.54,0.68,8.12,13.63
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.1,1.0,97.95,0.48,8.82,9.3
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.3,0.2,89.78,1.66,8.64,17.92
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.3,0.4,93.66,0.0,8.68,17.53
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.3,0.6,96.0,1.21,8.21,9.86
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.3,0.8,100.0,0.0,8.37,12.29
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.3,1.0,100.0,1.83,8.49,3.64
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.5,0.2,93.76,0.68,8.6,19.19
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.5,0.4,98.2,0.0,8.4,15.22
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.5,0.6,100.0,1.1,8.62,13.64
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.5,0.8,100.0,0.0,8.48,6.99
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.5,1.0,100.0,0.0,8.96,5.35
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.7,0.2,100.0,0.0,8.15,14.73
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.7,0.4,100.0,0.0,7.95,13.44
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.7,0.6,100.0,0.57,8.75,10.94
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.7,0.8,100.0,0.8,8.18,8.97
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.7,1.0,100.0,1.15,8.54,0.92
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.9,0.2,100.0,0.0,8.48,14.76
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.9,0.4,100.0,0.13,8.26,10.15
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.9,0.6,100.0,0.18,9.33,5.66
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.9,0.8,100.0,1.66,9.22,6.18
+Who saved Andromeda from the sea monster,gemini-2.0-flash-lite,0.9,1.0,100.0,1.8,9.01,2.13
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.1,0.2,83.99,72.02,5.78,20.42
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.1,0.4,90.29,71.89,6.02,19.62
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.1,0.6,90.88,70.99,5.96,14.28
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.1,0.8,93.14,68.89,6.24,9.37
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.1,1.0,96.23,69.87,6.32,10.31
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.3,0.2,92.23,73.31,5.73,18.9
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.3,0.4,92.66,68.27,5.36,16.95
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.3,0.6,96.45,67.99,5.45,13.53
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.3,0.8,97.9,67.81,6.44,8.51
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.3,1.0,100.0,66.47,6.0,7.11
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.5,0.2,95.76,68.13,5.68,16.57
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.5,0.4,96.52,66.32,5.63,15.44
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.5,0.6,100.0,67.36,5.71,12.4
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.5,0.8,100.0,64.52,6.29,6.83
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.5,1.0,100.0,62.04,6.89,7.05
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.7,0.2,100.0,64.56,6.12,13.98
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.7,0.4,100.0,62.98,5.86,9.51
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.7,0.6,100.0,61.46,6.78,8.83
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.7,0.8,100.0,63.63,7.06,6.66
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.7,1.0,100.0,60.56,7.65,2.59
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.9,0.2,100.0,64.43,6.88,12.55
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.9,0.4,100.0,62.04,6.79,10.81
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.9,0.6,100.0,62.06,7.6,8.48
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.9,0.8,100.0,59.39,7.49,2.87
+How can I contribute to Spark?,gemini-2.0-flash-lite,0.9,1.0,100.0,58.64,8.44,3.22
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.1,0.2,47.08,82.69,14.44,20.13
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.1,0.4,47.05,81.23,14.39,15.44
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.1,0.6,52.08,79.7,15.06,13.93
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.1,0.8,50.29,80.67,15.04,12.42
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.1,1.0,53.85,78.57,15.81,6.78
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.3,0.2,50.08,78.95,15.28,17.79
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.3,0.4,52.17,80.09,15.27,14.86
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.3,0.6,54.84,77.32,15.23,14.81
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.3,0.8,54.81,75.68,15.69,9.61
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.3,1.0,55.07,72.91,15.21,7.46
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.5,0.2,51.5,76.0,15.24,18.3
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.5,0.4,52.79,74.67,15.94,15.32
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.5,0.6,55.89,74.17,15.37,8.97
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.5,0.8,58.95,70.84,15.33,8.44
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.5,1.0,57.92,71.77,15.48,5.43
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.7,0.2,53.64,73.28,15.33,18.15
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.7,0.4,57.47,73.0,15.3,13.72
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.7,0.6,59.37,70.38,15.53,9.1
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.7,0.8,62.35,71.22,15.79,8.38
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.7,1.0,62.44,69.43,16.73,1.49
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.9,0.2,58.81,70.31,16.3,12.86
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.9,0.4,59.64,70.11,15.86,10.11
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.9,0.6,59.92,67.06,16.78,7.83
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.9,0.8,62.81,65.35,16.02,4.66
+"Who are ''The Lumières"" ?",gemini-2.0-flash-lite,0.9,1.0,65.25,63.41,17.0,1.82
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.1,0.2,42.91,41.55,17.92,20.82
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.1,0.4,47.31,42.46,18.0,18.1
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.1,0.6,47.65,39.61,18.0,14.38
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.1,0.8,48.04,40.58,18.0,10.49
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.1,1.0,51.04,39.59,18.0,9.38
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.3,0.2,45.43,38.66,18.0,17.0
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.3,0.4,50.04,38.51,18.0,15.05
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.3,0.6,48.92,39.46,18.0,13.07
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.3,0.8,50.19,35.9,18.0,10.73
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.3,1.0,52.54,36.57,18.0,7.51
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.5,0.2,48.66,40.04,18.0,16.19
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.5,0.4,50.3,38.6,18.0,13.48
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.5,0.6,53.89,37.05,18.0,11.33
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.5,0.8,53.33,35.6,18.0,9.23
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.5,1.0,56.82,37.04,18.0,6.49
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.7,0.2,52.03,37.92,18.0,13.69
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.7,0.4,53.4,35.73,18.0,13.58
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.7,0.6,56.19,34.27,18.0,6.43
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.7,0.8,55.28,33.46,18.0,6.01
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.7,1.0,56.73,33.01,18.0,0.83
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.9,0.2,54.38,37.56,18.0,13.93
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.9,0.4,57.24,35.26,18.0,12.72
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.9,0.6,58.52,33.88,18.0,8.74
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.9,0.8,60.73,32.52,18.0,5.4
+Using examples taken from the text give me a summary of the main arguments in favour of slavery reparations in the United States and the anticipated cost of enacting such reparations,gemini-2.0-flash-lite,0.9,1.0,61.14,31.55,18.0,0.82
+When was the wheel invented?,gemini-2.0-flash-lite,0.1,0.2,56.87,35.0,6.06,23.18
+When was the wheel invented?,gemini-2.0-flash-lite,0.1,0.4,61.07,35.74,6.42,17.72
+When was the wheel invented?,gemini-2.0-flash-lite,0.1,0.6,62.05,36.61,6.09,11.74
+When was the wheel invented?,gemini-2.0-flash-lite,0.1,0.8,63.15,36.32,7.18,10.29
+When was the wheel invented?,gemini-2.0-flash-lite,0.1,1.0,67.9,33.44,6.87,6.37
+When was the wheel invented?,gemini-2.0-flash-lite,0.3,0.2,63.02,35.96,6.32,18.04
+When was the wheel invented?,gemini-2.0-flash-lite,0.3,0.4,61.76,33.29,6.43,18.28
+When was the wheel invented?,gemini-2.0-flash-lite,0.3,0.6,66.58,36.16,7.2,14.48
+When was the wheel invented?,gemini-2.0-flash-lite,0.3,0.8,67.7,34.44,7.38,9.98
+When was the wheel invented?,gemini-2.0-flash-lite,0.3,1.0,70.51,34.03,7.44,6.35
+When was the wheel invented?,gemini-2.0-flash-lite,0.5,0.2,64.53,34.68,6.18,14.7
+When was the wheel invented?,gemini-2.0-flash-lite,0.5,0.4,64.99,34.2,7.41,15.06
+When was the wheel invented?,gemini-2.0-flash-lite,0.5,0.6,67.68,32.26,7.43,11.1
+When was the wheel invented?,gemini-2.0-flash-lite,0.5,0.8,68.83,33.66,6.65,5.56
+When was the wheel invented?,gemini-2.0-flash-lite,0.5,1.0,73.52,32.95,6.51,7.59
+When was the wheel invented?,gemini-2.0-flash-lite,0.7,0.2,67.98,32.41,7.36,14.01
+When was the wheel invented?,gemini-2.0-flash-lite,0.7,0.4,71.9,33.06,7.44,12.39
+When was the wheel invented?,gemini-2.0-flash-lite,0.7,0.6,70.94,32.61,7.47,7.64
+When was the wheel invented?,gemini-2.0-flash-lite,0.7,0.8,72.99,30.0,7.23,4.34
+When was the wheel invented?,gemini-2.0-flash-lite,0.7,1.0,74.63,32.01,7.53,4.38
+When was the wheel invented?,gemini-2.0-flash-lite,0.9,0.2,71.92,32.72,7.07,11.05
+When was the wheel invented?,gemini-2.0-flash-lite,0.9,0.4,73.43,31.48,7.08,13.71
+When was the wheel invented?,gemini-2.0-flash-lite,0.9,0.6,77.12,31.81,7.22,10.71
+When was the wheel invented?,gemini-2.0-flash-lite,0.9,0.8,79.23,28.78,7.22,5.26
+When was the wheel invented?,gemini-2.0-flash-lite,0.9,1.0,77.81,30.19,7.85,3.54
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.1,0.2,34.3,31.29,4.8,18.25
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.1,0.4,37.4,31.93,4.8,18.34
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.1,0.6,34.75,29.41,5.23,15.13
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.1,0.8,38.36,29.04,5.48,14.6
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.1,1.0,38.99,29.88,5.55,16.17
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.3,0.2,35.14,31.37,4.9,20.73
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.3,0.4,36.62,28.72,4.9,16.64
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.3,0.6,37.62,27.83,5.36,14.59
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.3,0.8,39.64,28.38,5.51,18.93
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.3,1.0,39.71,29.51,5.84,16.18
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.5,0.2,40.29,30.82,5.58,18.32
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.5,0.4,40.65,28.06,5.93,16.59
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.5,0.6,40.31,29.05,5.62,18.06
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.5,0.8,41.82,28.23,6.4,15.19
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.5,1.0,42.56,27.38,7.28,14.73
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.7,0.2,38.39,26.77,6.51,18.96
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.7,0.4,40.31,28.02,6.55,14.23
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.7,0.6,43.84,26.56,6.89,16.1
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.7,0.8,44.87,28.13,6.85,14.9
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.7,1.0,45.65,24.58,6.92,18.03
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.9,0.2,41.67,27.67,6.69,18.27
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.9,0.4,41.8,25.22,6.59,15.08
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.9,0.6,43.89,25.07,7.4,14.81
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.9,0.8,45.71,26.88,7.39,16.7
+write a scene between two actors discussing movie Inception,gemini-2.0-flash-lite,0.9,1.0,48.99,24.51,7.5,13.32
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.1,0.2,48.94,74.65,15.63,21.4
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.1,0.4,48.03,71.34,14.78,14.58
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.1,0.6,52.91,71.53,14.85,13.58
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.1,0.8,54.14,68.34,15.3,9.13
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.1,1.0,55.39,70.21,15.51,6.68
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.3,0.2,49.97,71.84,14.98,20.63
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.3,0.4,50.63,70.66,16.01,14.55
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.3,0.6,54.11,70.57,15.79,11.23
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.3,0.8,55.67,69.21,16.14,7.66
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.3,1.0,57.96,66.53,16.22,6.98
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.5,0.2,53.74,69.23,15.51,16.08
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.5,0.4,55.49,68.56,15.83,13.19
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.5,0.6,56.05,65.22,15.46,12.89
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.5,0.8,60.09,64.05,16.18,5.05
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.5,1.0,62.07,65.12,16.35,2.05
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.7,0.2,56.17,65.17,15.74,12.44
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.7,0.4,57.63,64.32,16.29,11.77
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.7,0.6,58.47,64.28,16.25,8.67
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.7,0.8,60.56,61.69,16.23,7.99
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.7,1.0,64.83,61.9,16.92,2.11
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.9,0.2,60.23,64.57,16.27,15.92
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.9,0.4,59.67,61.16,16.7,11.51
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.9,0.6,61.72,61.16,16.32,4.92
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.9,0.8,62.51,59.48,16.48,2.41
+Did dinosaurs have lips?,gemini-2.0-flash-lite,0.9,1.0,65.08,58.86,17.29,1.52
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.1,0.2,79.61,55.47,6.76,19.07
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.1,0.4,85.04,56.49,6.98,18.95
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.1,0.6,86.01,54.87,7.63,11.54
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.1,0.8,90.63,50.79,7.13,9.35
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.1,1.0,93.74,52.77,7.63,5.93
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.3,0.2,86.81,52.5,7.42,18.26
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.3,0.4,89.53,50.63,7.12,17.23
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.3,0.6,91.51,53.43,7.21,13.69
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.3,0.8,93.51,49.79,7.47,6.85
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.3,1.0,98.86,49.58,7.09,7.43
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.5,0.2,89.27,53.05,7.68,15.31
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.5,0.4,91.77,51.03,7.1,12.0
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.5,0.6,95.27,47.98,7.73,8.05
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.5,0.8,97.17,49.63,7.43,8.58
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.5,1.0,100.0,45.86,7.12,2.55
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.7,0.2,95.69,51.22,7.98,16.15
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.7,0.4,96.3,49.08,7.7,14.15
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.7,0.6,99.4,46.43,8.11,11.13
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.7,0.8,100.0,47.72,7.53,4.56
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.7,1.0,100.0,44.93,7.24,5.79
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.9,0.2,99.89,47.25,7.29,14.98
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.9,0.4,100.0,45.25,7.42,12.19
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.9,0.6,100.0,46.83,8.18,8.13
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.9,0.8,100.0,43.12,7.51,3.38
+Are lilies safe for cats?,gemini-2.0-flash-lite,0.9,1.0,100.0,41.5,8.05,1.07
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.1,0.2,74.74,0.0,8.02,21.86
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.1,0.4,77.62,0.88,7.86,17.43
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.1,0.6,80.88,0.1,7.75,14.51
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.1,0.8,84.45,0.0,8.0,8.86
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.1,1.0,86.76,0.0,8.31,5.98
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.3,0.2,81.94,0.0,7.73,16.19
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.3,0.4,83.4,1.35,8.02,15.75
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.3,0.6,86.58,0.0,7.75,13.24
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.3,0.8,86.73,1.72,7.64,9.55
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.3,1.0,92.67,0.0,8.43,3.96
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.5,0.2,85.12,1.75,7.81,16.21
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.5,0.4,88.39,1.29,7.71,11.24
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.5,0.6,88.5,0.0,8.6,13.76
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.5,0.8,91.28,0.9,8.19,6.14
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.5,1.0,95.66,0.0,8.38,3.07
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.7,0.2,90.33,0.0,7.6,16.23
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.7,0.4,91.43,0.0,8.35,14.7
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.7,0.6,93.34,0.0,8.11,8.43
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.7,0.8,95.97,1.99,8.24,5.51
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.7,1.0,99.26,1.97,8.18,2.63
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.9,0.2,94.84,0.0,8.5,14.45
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.9,0.4,96.7,0.0,8.63,13.36
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.9,0.6,98.13,1.85,8.33,7.18
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.9,0.8,100.0,1.93,8.59,4.91
+What is Sunshine Recession?,gemini-2.0-flash-lite,0.9,1.0,100.0,0.0,8.31,0.13
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.1,0.2,63.61,81.34,5.92,21.34
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.1,0.4,63.47,81.96,5.66,19.76
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.1,0.6,65.17,78.4,5.48,12.03
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.1,0.8,68.2,79.08,5.39,13.07
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.1,1.0,69.28,76.85,6.27,9.61
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.3,0.2,66.71,81.42,5.26,20.55
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.3,0.4,68.76,79.05,6.2,16.17
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.3,0.6,69.39,78.17,5.86,10.07
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.3,0.8,70.59,76.83,5.75,11.5
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.3,1.0,74.21,75.72,6.67,4.96
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.5,0.2,70.07,77.66,5.19,18.66
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.5,0.4,71.17,74.97,5.3,14.24
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.5,0.6,72.42,74.26,5.82,8.3
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.5,0.8,76.93,72.32,6.39,8.57
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.5,1.0,78.2,70.14,6.51,4.37
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.7,0.2,71.62,72.58,6.16,12.7
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.7,0.4,74.87,71.09,6.38,14.04
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.7,0.6,75.98,69.79,6.75,9.33
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.7,0.8,80.25,68.53,7.14,7.81
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.7,1.0,80.81,66.54,7.65,2.34
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.9,0.2,78.43,69.61,6.81,13.34
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.9,0.4,78.31,69.03,7.03,7.95
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.9,0.6,80.31,70.2,7.37,10.74
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.9,0.8,83.04,65.33,7.01,6.71
+What is the currency in use in the Netherlands?,gemini-2.0-flash-lite,0.9,1.0,84.26,64.75,8.19,3.92
+What is the best tv series in the world,gemini-2.0-flash-lite,0.1,0.2,74.95,100.0,6.9,22.76
+What is the best tv series in the world,gemini-2.0-flash-lite,0.1,0.4,80.66,100.0,5.84,18.36
+What is the best tv series in the world,gemini-2.0-flash-lite,0.1,0.6,80.31,100.0,5.92,12.45
+What is the best tv series in the world,gemini-2.0-flash-lite,0.1,0.8,84.7,100.0,6.59,9.75
+What is the best tv series in the world,gemini-2.0-flash-lite,0.1,1.0,87.17,100.0,6.2,9.39
+What is the best tv series in the world,gemini-2.0-flash-lite,0.3,0.2,79.04,100.0,6.69,15.86
+What is the best tv series in the world,gemini-2.0-flash-lite,0.3,0.4,82.34,100.0,6.91,16.31
+What is the best tv series in the world,gemini-2.0-flash-lite,0.3,0.6,84.55,100.0,6.04,11.93
+What is the best tv series in the world,gemini-2.0-flash-lite,0.3,0.8,88.11,100.0,6.89,11.79
+What is the best tv series in the world,gemini-2.0-flash-lite,0.3,1.0,89.78,100.0,6.94,4.99
+What is the best tv series in the world,gemini-2.0-flash-lite,0.5,0.2,84.97,100.0,6.15,15.89
+What is the best tv series in the world,gemini-2.0-flash-lite,0.5,0.4,89.6,100.0,6.32,14.0
+What is the best tv series in the world,gemini-2.0-flash-lite,0.5,0.6,90.64,100.0,6.19,9.48
+What is the best tv series in the world,gemini-2.0-flash-lite,0.5,0.8,93.61,96.33,6.7,5.94
+What is the best tv series in the world,gemini-2.0-flash-lite,0.5,1.0,95.57,94.41,7.05,3.42
+What is the best tv series in the world,gemini-2.0-flash-lite,0.7,0.2,91.83,99.01,7.14,16.15
+What is the best tv series in the world,gemini-2.0-flash-lite,0.7,0.4,94.12,98.56,7.21,9.58
+What is the best tv series in the world,gemini-2.0-flash-lite,0.7,0.6,95.51,94.12,6.48,11.78
+What is the best tv series in the world,gemini-2.0-flash-lite,0.7,0.8,98.6,91.35,6.86,9.16
+What is the best tv series in the world,gemini-2.0-flash-lite,0.7,1.0,100.0,91.5,6.99,1.84
+What is the best tv series in the world,gemini-2.0-flash-lite,0.9,0.2,93.0,96.88,7.39,12.78
+What is the best tv series in the world,gemini-2.0-flash-lite,0.9,0.4,97.24,91.83,6.53,11.05
+What is the best tv series in the world,gemini-2.0-flash-lite,0.9,0.6,100.0,92.45,7.0,9.03
+What is the best tv series in the world,gemini-2.0-flash-lite,0.9,0.8,100.0,87.54,8.15,7.65
+What is the best tv series in the world,gemini-2.0-flash-lite,0.9,1.0,100.0,88.73,8.38,0.7
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.1,0.2,85.73,94.29,5.03,19.11
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.1,0.4,90.02,91.74,5.87,19.48
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.1,0.6,91.16,88.81,5.54,16.8
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.1,0.8,96.08,89.23,5.39,12.87
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.1,1.0,95.93,84.57,6.04,8.87
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.3,0.2,89.57,89.43,5.28,16.99
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.3,0.4,94.25,86.93,5.89,15.46
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.3,0.6,96.51,86.25,5.98,11.84
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.3,0.8,100.0,84.13,5.5,7.76
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.3,1.0,100.0,83.55,5.65,5.22
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.5,0.2,95.15,86.8,6.31,18.55
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.5,0.4,96.76,85.87,6.43,16.2
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.5,0.6,100.0,81.8,6.1,9.48
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.5,0.8,100.0,79.0,6.74,7.28
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.5,1.0,100.0,79.61,7.06,5.56
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.7,0.2,100.0,84.0,6.41,15.52
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.7,0.4,100.0,82.14,5.83,15.38
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.7,0.6,100.0,78.75,6.97,9.75
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.7,0.8,100.0,78.02,6.46,5.15
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.7,1.0,100.0,75.05,7.71,3.17
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.9,0.2,100.0,79.62,6.07,13.9
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.9,0.4,100.0,78.82,6.86,12.14
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.9,0.6,100.0,76.95,7.76,8.98
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.9,0.8,100.0,73.82,7.49,2.87
+Who was the first to record the Needles and Pins song?,gemini-2.0-flash-lite,0.9,1.0,100.0,73.35,7.52,1.53
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.1,0.2,56.71,14.64,18.0,21.98
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.1,0.4,60.61,12.12,18.0,16.9
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.1,0.6,61.21,13.47,18.0,15.95
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.1,0.8,63.83,14.92,18.0,10.48
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.1,1.0,66.89,14.52,18.0,9.16
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.3,0.2,59.69,14.85,18.0,19.87
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.3,0.4,62.79,12.36,18.0,15.28
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.3,0.6,65.64,11.35,18.0,10.82
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.3,0.8,67.65,11.64,18.0,11.73
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.3,1.0,69.36,10.4,18.0,5.03
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.5,0.2,64.82,12.78,18.0,14.48
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.5,0.4,66.89,11.6,18.0,14.72
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.5,0.6,68.74,13.68,18.0,8.89
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.5,0.8,71.15,10.27,18.0,9.0
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.5,1.0,73.91,11.07,18.0,2.29
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.7,0.2,67.51,11.09,18.0,16.07
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.7,0.4,70.63,12.5,18.0,10.46
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.7,0.6,71.71,12.19,18.0,6.96
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.7,0.8,73.11,11.1,18.0,3.81
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.7,1.0,75.65,11.58,18.0,1.66
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.9,0.2,71.99,10.97,18.0,13.95
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.9,0.4,74.02,12.07,18.0,12.18
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.9,0.6,75.78,13.32,18.0,8.93
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.9,0.8,79.02,13.07,18.0,5.45
+Provide me a list of the different types of harnesses used in rock climbing,gemini-2.0-flash-lite,0.9,1.0,78.58,10.98,18.0,2.97
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.1,0.2,69.36,18.75,13.8,20.99
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.1,0.4,73.3,16.89,14.06,18.45
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.1,0.6,77.73,15.84,13.5,14.95
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.1,0.8,76.77,18.9,14.57,14.19
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.1,1.0,80.44,16.51,14.43,9.03
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.3,0.2,73.03,16.64,13.81,20.34
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.3,0.4,76.71,17.53,14.0,12.64
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.3,0.6,80.7,16.54,14.63,13.3
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.3,0.8,80.56,15.54,14.3,8.63
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.3,1.0,85.62,18.17,15.01,7.47
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.5,0.2,79.06,17.68,14.83,17.22
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.5,0.4,80.96,17.97,14.4,15.46
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.5,0.6,85.44,15.7,14.92,9.89
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.5,0.8,86.73,15.0,15.02,9.8
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.5,1.0,90.63,15.25,15.51,3.68
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.7,0.2,81.4,18.44,14.8,17.45
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.7,0.4,86.04,15.73,14.91,14.59
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.7,0.6,89.25,16.66,14.72,6.59
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.7,0.8,90.39,15.49,14.78,6.11
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.7,1.0,95.02,14.03,15.0,1.07
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.9,0.2,88.56,16.95,15.44,13.46
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.9,0.4,88.0,15.43,15.09,8.94
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.9,0.6,94.08,16.1,15.26,9.45
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.9,0.8,93.45,16.32,15.77,7.43
+Think of some family rules to promote a healthy family relationship,gemini-2.0-flash-lite,0.9,1.0,98.07,13.03,15.8,1.56
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.1,0.2,86.35,0.09,3.98,22.79
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.1,0.4,89.25,0.38,4.36,17.0
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.1,0.6,89.68,0.08,5.32,13.07
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.1,0.8,94.81,0.0,5.89,10.13
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.1,1.0,96.27,0.0,5.5,7.85
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.3,0.2,88.97,0.0,4.78,15.69
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.3,0.4,93.99,0.06,4.99,14.7
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.3,0.6,95.77,0.0,5.88,11.3
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.3,0.8,98.48,0.0,6.07,8.63
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.3,1.0,100.0,0.0,6.2,7.65
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.5,0.2,93.92,0.0,5.47,15.07
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.5,0.4,98.88,0.37,6.25,15.2
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.5,0.6,100.0,0.0,6.53,12.28
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.5,0.8,100.0,0.13,7.02,9.53
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.5,1.0,100.0,0.0,7.14,7.52
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.7,0.2,100.0,0.0,6.29,16.66
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.7,0.4,100.0,0.0,6.04,14.57
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.7,0.6,100.0,1.65,6.55,10.6
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.7,0.8,100.0,1.16,7.46,6.12
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.7,1.0,100.0,0.0,7.14,3.17
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.9,0.2,100.0,1.07,6.73,11.56
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.9,0.4,100.0,1.27,7.27,9.76
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.9,0.6,100.0,1.17,7.27,7.2
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.9,0.8,100.0,0.48,7.61,7.64
+"In the series A Song of Ice and Fire, who is the founder of House Karstark?",gemini-2.0-flash-lite,0.9,1.0,100.0,0.0,8.26,2.35
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.1,0.2,47.08,55.24,9.65,20.47
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.1,0.4,46.5,55.15,8.9,19.79
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.1,0.6,49.46,53.45,9.62,13.98
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.1,0.8,51.0,53.79,9.22,13.94
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.1,1.0,50.67,49.93,10.08,9.83
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.3,0.2,48.14,53.48,9.7,16.14
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.3,0.4,51.51,54.05,10.09,16.42
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.3,0.6,49.85,50.09,9.28,12.79
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.3,0.8,53.02,50.81,9.44,10.69
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.3,1.0,54.34,49.78,10.4,5.43
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.5,0.2,53.09,51.24,10.28,16.07
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.5,0.4,51.28,48.53,10.38,13.43
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.5,0.6,53.05,48.68,9.74,11.29
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.5,0.8,54.36,49.31,10.38,7.16
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.5,1.0,59.2,48.96,9.78,6.51
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.7,0.2,53.58,48.77,9.76,14.69
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.7,0.4,55.79,49.15,9.97,10.53
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.7,0.6,56.76,49.2,10.5,7.33
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.7,0.8,60.82,47.18,9.76,3.83
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.7,1.0,58.51,46.39,10.28,4.92
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.9,0.2,58.65,45.84,10.27,13.3
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.9,0.4,58.12,47.66,10.32,10.35
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.9,0.6,58.63,45.54,10.36,7.5
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.9,0.8,60.94,43.24,10.52,5.77
+What is enriched air and why would divers dive with enriched air?,gemini-2.0-flash-lite,0.9,1.0,64.52,42.45,10.49,4.77
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.1,0.2,85.68,0.0,18.0,20.61
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.1,0.4,89.32,0.0,18.0,18.34
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.1,0.6,90.07,0.93,18.0,17.1
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.1,0.8,95.62,0.0,18.0,13.54
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.1,1.0,95.85,0.0,18.0,10.96
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.3,0.2,88.81,0.53,18.0,17.47
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.3,0.4,91.71,0.0,18.0,15.41
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.3,0.6,96.55,0.0,18.0,12.13
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.3,0.8,100.0,1.19,18.0,6.81
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.3,1.0,100.0,1.0,18.0,6.98
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.5,0.2,93.75,0.0,18.0,14.31
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.5,0.4,100.0,1.24,18.0,12.72
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.5,0.6,99.83,0.02,18.0,9.67
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.5,0.8,100.0,0.0,18.0,5.09
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.5,1.0,100.0,0.0,18.0,2.91
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.7,0.2,100.0,1.23,18.0,16.6
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.7,0.4,100.0,1.2,18.0,11.46
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.7,0.6,100.0,0.0,18.0,7.32
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.7,0.8,100.0,1.97,18.0,4.83
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.7,1.0,100.0,0.55,18.0,4.81
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.9,0.2,100.0,0.57,18.0,11.5
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.9,0.4,100.0,0.0,18.0,12.28
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.9,0.6,100.0,0.13,18.0,9.03
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.9,0.8,100.0,0.0,18.0,1.87
+What film won the 1943 Oscar as best film,gemini-2.0-flash-lite,0.9,1.0,100.0,0.0,18.0,4.57
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.1,0.2,74.01,72.17,5.08,21.02
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.1,0.4,77.68,72.4,5.35,19.35
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.1,0.6,77.76,70.41,4.65,15.13
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.1,0.8,80.56,71.1,5.72,12.61
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.1,1.0,83.92,67.45,5.52,9.34
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.3,0.2,76.29,71.53,5.26,20.59
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.3,0.4,78.19,68.39,4.87,15.28
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.3,0.6,81.59,67.8,5.27,9.74
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.3,0.8,83.65,69.09,6.12,11.61
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.3,1.0,89.65,66.56,6.48,4.32
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.5,0.2,83.28,67.19,5.74,19.4
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.5,0.4,84.69,69.21,6.33,15.17
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.5,0.6,86.01,65.87,6.67,11.83
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.5,0.8,91.26,63.78,6.37,10.42
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.5,1.0,93.22,62.63,6.36,2.44
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.7,0.2,87.25,65.53,5.87,12.76
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.7,0.4,90.53,63.73,6.3,12.35
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.7,0.6,93.0,63.78,6.3,9.35
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.7,0.8,92.43,63.08,6.66,7.26
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.7,1.0,98.07,61.53,6.84,0.84
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.9,0.2,90.71,62.34,6.54,16.18
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.9,0.4,91.59,62.56,7.43,11.79
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.9,0.6,94.63,61.47,7.72,8.25
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.9,0.8,98.2,61.1,7.54,4.42
+"which weighs more, cold or hot water?",gemini-2.0-flash-lite,0.9,1.0,100.0,59.13,8.22,2.04
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.1,0.2,83.51,57.32,5.03,20.09
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.1,0.4,88.77,56.24,4.68,18.29
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.1,0.6,91.1,54.03,5.68,11.74
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.1,0.8,94.64,54.34,4.92,10.96
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.1,1.0,98.57,52.09,5.32,5.44
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.3,0.2,90.04,52.26,5.29,20.98
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.3,0.4,94.02,51.94,4.84,16.4
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.3,0.6,97.44,50.06,5.27,13.92
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.3,0.8,99.87,50.46,5.41,9.84
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.3,1.0,100.0,49.64,6.63,6.3
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.5,0.2,97.48,49.65,5.02,18.73
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.5,0.4,96.67,48.97,6.22,15.0
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.5,0.6,100.0,50.21,6.6,8.89
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.5,0.8,100.0,50.2,5.9,5.85
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.5,1.0,100.0,47.38,7.27,2.27
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.7,0.2,100.0,48.02,5.68,12.7
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.7,0.4,100.0,49.67,6.32,10.42
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.7,0.6,100.0,48.77,6.21,9.38
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.7,0.8,100.0,45.38,7.36,5.96
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.7,1.0,100.0,47.43,7.53,2.35
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.9,0.2,100.0,47.8,6.17,15.82
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.9,0.4,100.0,47.56,7.03,9.81
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.9,0.6,100.0,44.06,7.13,8.98
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.9,0.8,100.0,44.25,8.06,2.04
+"Given this paragraph, what is the top speed of a Kia Stinger?",gemini-2.0-flash-lite,0.9,1.0,100.0,44.89,8.02,3.47
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.1,0.2,37.85,63.37,10.21,18.28
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.1,0.4,39.54,62.89,11.38,16.7
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.1,0.6,43.81,62.23,11.26,12.44
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.1,0.8,44.54,60.09,11.04,13.83
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.1,1.0,45.82,57.0,10.87,8.2
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.3,0.2,43.92,61.65,11.37,17.69
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.3,0.4,41.53,58.94,10.69,15.78
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.3,0.6,43.29,58.3,11.57,12.84
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.3,0.8,45.18,58.79,11.56,8.26
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.3,1.0,46.48,57.76,11.71,9.41
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.5,0.2,44.34,57.56,11.46,14.26
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.5,0.4,46.42,56.85,11.29,13.01
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.5,0.6,48.46,57.6,10.94,12.44
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.5,0.8,50.33,54.13,11.94,7.91
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.5,1.0,48.49,55.86,11.98,5.56
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.7,0.2,46.08,55.36,11.7,14.35
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.7,0.4,49.28,54.73,11.12,13.83
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.7,0.6,51.04,53.79,11.38,9.23
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.7,0.8,50.9,54.7,11.4,8.97
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.7,1.0,52.18,51.55,11.51,5.14
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.9,0.2,49.63,56.19,11.36,11.56
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.9,0.4,51.26,51.38,11.39,12.91
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.9,0.6,51.73,50.68,11.76,10.12
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.9,0.8,53.7,52.01,12.22,5.47
+Write a short paragraph about why you should not have both a pet cat and a pet bird.,gemini-2.0-flash-lite,0.9,1.0,53.36,51.59,12.6,1.34
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.1,0.2,72.68,73.96,11.93,20.75
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.1,0.4,75.1,71.79,11.73,18.62
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.1,0.6,75.23,70.65,11.67,16.55
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.1,0.8,79.11,68.6,11.78,8.23
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.1,1.0,83.17,66.83,11.77,9.81
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.3,0.2,73.55,71.46,11.55,20.39
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.3,0.4,79.2,69.81,11.38,15.95
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.3,0.6,78.46,69.6,12.35,10.4
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.3,0.8,82.1,67.93,11.44,9.48
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.3,1.0,84.63,66.82,12.48,8.08
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.5,0.2,77.68,68.49,12.14,19.25
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.5,0.4,81.7,68.5,11.77,13.79
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.5,0.6,85.11,67.44,11.53,13.36
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.5,0.8,86.41,62.8,12.08,6.62
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.5,1.0,91.36,63.51,12.64,6.73
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.7,0.2,82.07,67.53,12.33,12.73
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.7,0.4,88.03,65.37,12.64,10.07
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.7,0.6,88.21,63.81,12.13,7.45
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.7,0.8,91.48,60.27,12.66,4.63
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.7,1.0,95.67,59.62,12.07,3.27
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.9,0.2,89.67,63.66,12.84,12.06
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.9,0.4,91.39,60.9,12.23,9.4
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.9,0.6,93.63,59.78,12.01,6.87
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.9,0.8,95.36,59.44,12.2,6.06
+What is your favorite strip from the comic Calvin and Hobbes?,gemini-2.0-flash-lite,0.9,1.0,98.63,58.13,12.52,2.53
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.1,0.2,48.22,75.79,8.18,22.85
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.1,0.4,46.94,74.24,7.84,14.68
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.1,0.6,51.92,70.49,8.52,11.86
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.1,0.8,51.08,70.79,8.05,13.45
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.1,1.0,53.71,69.18,7.89,11.02
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.3,0.2,49.94,69.87,7.79,18.26
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.3,0.4,52.0,69.17,7.53,17.83
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.3,0.6,52.0,70.46,8.31,12.07
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.3,0.8,54.1,67.92,8.01,10.16
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.3,1.0,57.16,67.37,8.24,5.42
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.5,0.2,51.05,69.83,7.74,15.56
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.5,0.4,54.11,69.22,8.54,11.28
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.5,0.6,55.24,65.83,7.9,13.54
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.5,0.8,58.32,63.81,8.95,10.04
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.5,1.0,59.9,64.0,8.05,3.43
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.7,0.2,53.44,65.27,7.85,13.96
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.7,0.4,55.66,64.92,7.83,11.3
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.7,0.6,57.95,62.83,8.51,7.38
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.7,0.8,59.43,63.68,8.43,6.4
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.7,1.0,60.46,60.5,8.42,0.43
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.9,0.2,58.98,65.24,8.26,15.03
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.9,0.4,59.57,61.16,9.08,13.68
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.9,0.6,61.62,59.26,8.71,10.24
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.9,0.8,62.74,60.09,8.99,7.2
+What makes a formula one car so fast?,gemini-2.0-flash-lite,0.9,1.0,63.18,58.21,8.57,2.44
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.1,0.2,48.3,50.23,8.7,17.53
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.1,0.4,49.15,49.87,8.95,19.81
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.1,0.6,49.35,46.72,9.43,13.87
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.1,0.8,52.57,46.07,9.49,9.37
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.1,1.0,52.8,47.23,10.11,10.65
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.3,0.2,49.13,47.22,9.8,17.82
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.3,0.4,50.82,46.86,9.3,18.47
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.3,0.6,54.48,45.16,9.85,12.27
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.3,0.8,56.6,47.12,9.42,11.43
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.3,1.0,58.15,44.69,10.24,4.44
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.5,0.2,52.78,45.16,9.22,16.85
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.5,0.4,55.55,47.85,9.15,16.76
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.5,0.6,56.75,43.35,9.66,13.49
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.5,0.8,57.03,44.31,10.12,9.53
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.5,1.0,57.57,41.92,9.82,5.32
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.7,0.2,53.34,46.3,10.17,14.22
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.7,0.4,57.06,43.94,9.3,9.41
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.7,0.6,57.52,45.0,10.36,9.24
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.7,0.8,60.73,43.84,9.96,6.35
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.7,1.0,62.51,40.34,9.7,2.06
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.9,0.2,59.9,41.44,10.26,14.29
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.9,0.4,59.83,43.74,10.21,10.66
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.9,0.6,61.99,39.84,10.17,8.25
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.9,0.8,64.24,39.1,9.72,3.72
+Without quoting directly from the text give me a summary of the history of the Key Lime Pie.,gemini-2.0-flash-lite,0.9,1.0,66.02,38.08,9.95,1.64
